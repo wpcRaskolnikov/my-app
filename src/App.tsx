@@ -1,24 +1,26 @@
 import React from 'react';
-import logo from './logo.svg';
+import {Routes,Route} from "react-router-dom";
+import {Home} from "./pages/Home";
 import './App.css';
+import {Linux} from "./pages/Linux";
+import {Cryptography} from "./pages/Cryptography";
+import {Movie} from "./pages/Movie";
+import {Web} from "./pages/Web";
+import {Docker} from "./pages/Docker";
+import {Tools} from "./pages/Tools";
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+        <Routes>
+            <Route path="/" element={<Home/>}/>
+            <Route path="/linux" element={<Linux/>}/>
+            <Route path="/cryptography" element={<Cryptography/>}/>
+            <Route path="/movie" element={<Movie/>}/>
+            <Route path="/web" element={<Web/>}/>
+            <Route path="/docker" element={<Docker/>}/>
+            <Route path="/tools" element={<Tools/>}/>
+        </Routes>
     </div>
   );
 }
