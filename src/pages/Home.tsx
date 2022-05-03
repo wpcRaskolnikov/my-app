@@ -1,18 +1,16 @@
 import React from 'react';
 import {Link} from "react-router-dom";
+import './../skeleton.css'
 
-export function Home() {
+type HomeProps={
+  links:String[];
+};
+
+export function Home({links}:HomeProps) {
     return (
         <div>
-            <nav>
-                <ul>
-                    <li><Link to="linux">Linux</Link></li>
-                    <li><Link to="cryptography">Cryptography</Link></li>
-                    <li><Link to="movie">Movie</Link></li>
-                    <li><Link to="web">Web</Link></li>
-                    <li><Link to="docker">Docker</Link></li>
-                    <li><Link to="tools">Tools</Link></li>
-                </ul>
+            <nav className="container">
+                {links.map((i)=>(<Link to={i as string} className="two columns">{i}</Link>))}
             </nav>
             <h1>Home</h1>
         </div>

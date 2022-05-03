@@ -31,6 +31,10 @@
           <option value="http://tiles.apache.org/" />
           <option value="http://codeinword.com" />
           <option value="http://linasm.sourceforge.net" />
+          <option value="http://www.factordb.com" />
+          <option value="http://www1.baiten.cn" />
+          <option value="http://ip111.cn" />
+          <option value="http://www.stats.gov.cn" />
         </list>
       </option>
     </inspection_tool>
