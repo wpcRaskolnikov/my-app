@@ -2,7 +2,7 @@ import React from 'react';
 import {Routes,Route} from "react-router-dom";
 import {Home} from "./pages/Home";
 import './App.css';
-import {Linux,Cryptography,Web,Docker,Movie,Tools,News} from "./pages/Pages";
+import {Linux,Cryptography,Web,Docker,Movie,Tools,News,Books} from "./pages/Pages";
 
 const links=["cryptography","linux","movie","web","docker","tools","news"];
 
@@ -18,6 +18,7 @@ function App() {
                 <Route path="/docker" element={<Docker/>}/>
                 <Route path="/tools" element={<Tools/>}/>
                 <Route path="/news" element={<News/>}/>
+                <Route path="/books" element={<Books/>}/>
             </Routes>
         </div>
     );

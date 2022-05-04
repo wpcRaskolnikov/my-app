@@ -15,6 +15,8 @@ const webLinks = [
     {link: "https://github.com/haixiangyan/make-wheels", description: "npm造轮子"},
     {link: "https://docs.xilinx.com/", description: "xilinx文档"},
     {link: "https://www.kinh.cc/", description: "IP工具箱"},
+    {link: "https://www.jetbrains.com/help/idea/", description: "idea手册"},
+    {link: "https://kangax.github.io/compat-table/esnext/", description: "next ES"},
 ];
 
 const cryptographyLinks = [
@@ -24,6 +26,8 @@ const cryptographyLinks = [
     {link: "https://ctf-wiki.github.io/ctf-wiki", description: "ctf维基"},
     {link: "https://ocw.mit.edu/", description: "OPEN MIT"},
     {link: "https://gchq.github.io/CyberChef/", description: "密码学工具箱"},
+    {link: "https://gmssl.org/", description: "openssl"},
+    {link: "https://the-x.cn/", description: "the X工具箱"},
 ];
 
 const dockerLinks = [
@@ -47,6 +51,7 @@ const linuxLinks = [
     {link: "https://opensource.com/article/18/8/what-how-makefile", description: "Makefile基础"},
     {link: "https://linuxtools-rst.readthedocs.io/", description: "Linux Tools Quick Tutorial"},
     {link: "https://hackmd.io/@sysprog/SySTMXPvl", description: "Makefile语法"},
+    {link: "https://docs.microsoft.com/zh-cn/cpp/linux/", description: "visual studio手册"},
 ];
 
 const toolsLinks = [
@@ -68,12 +73,17 @@ const toolsLinks = [
     {link: "https://igfonts.io/", description: "Instagram字体"},
     {link: "https://next.itellyou.cn/", description: "操作系统镜像"},
     {link: "https://www.wcofun.com/", description: "英配番剧"},
+    {link: "https://www.fosshub.com/", description: "软件下载"},
+    {link: "https://www.geogebra.org/", description: "数学工具"},
+    {link: "https://new-qk.lifves.com/", description: "期刊杂志"},
+    {link: "https://pixelmap.amcharts.com/", description: "地图生成"},
 ];
 
 const newsLinks = [
     {link: "https://www.theguardian.com/", description: "英国卫报"},
     {link: "http://www.stats.gov.cn/", description: "国家统计局"},
     {link: "https://language.chinadaily.com.cn/", description: "双语日报"},
+    {link: "https://stackoverflow.com/", description: "stackoverflow"},
     {link: "https://www.cnnic.net.cn/", description: "CNNIC"},
     {link: "https://oi-wiki.org/", description: "算法维基"},
     {link: "https://www.questmobile.com.cn/", description: "Quest Mobile"},
@@ -84,6 +94,30 @@ const newsLinks = [
     {link: "https://www.cnblogs.com/vamei/", description: "vamei’s blog"},
     {link: "https://yuc.wiki/", description: "新番介绍"},
     {link: "https://bangumi.tv/", description: "bangumi番组计划"},
+];
+
+const pictureLinks = [
+    {link: "https://pixabay.com/", description: "pixbay"},
+    {link: "http://pic.people.com.cn/", description: "人民网图片"},
+    {link: "https://www.iconfont.cn/", description: "阿里巴巴矢量图"},
+    {link: "https://storyset.com/", description: "storyset"},
+    {link: "https://www.hpcbristol.net/", description: "历史老图片"},
+    {link: "https://fotoforensics.com/", description: "鉴别图片是否PS"},
+    {link: "https://graph.baidu.com/pcpage/index?tpl_from=pc", description: "百度识图"},
+    {link: "https://bbs.huoying666.com/", description: "火萤壁纸"},
+    {link: "https://wallpaperwaifu.com/", description: "waifu壁纸"},
+    {link: "https://livewallp.com/", description: "livewallp壁纸"},
+    {link: "https://www.livewallpaperpc.com/", description: "livewallpaper壁纸"},
+    {link: "https://zhutix.com/", description: "致美儿壁纸"},
+    {link: "https://livewallpaper.giantapp.cn/", description: "巨应壁纸"},
+];
+
+const booksLinks = [
+    {link: "https://gaia.cs.umass.edu/kurose_ross/", description: "计算机网络"},
+];
+
+const schoolLinks = [
+    {link: "https://www.zjlll.net/", description: "浙江学习网"},
     {link: "https://newjw.hdu.edu.cn", description: "杭电教务"},
 ];
 
@@ -147,6 +181,15 @@ export function Tools() {
         <div>
             <h1>Tools</h1>
             <Links links={toolsLinks}/>
+        </div>
+    )
+}
+
+export function Books() {
+    return (
+        <div>
+            <h1>Books</h1>
+            <Links links={booksLinks}/>
         </div>
     )
 }

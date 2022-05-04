@@ -1,5 +1,4 @@
 import React from 'react';
-import './../skeleton.css'
 
 type LinksProps = {
     links: {link:string,description:string}[];
@@ -8,9 +7,9 @@ type LinksProps = {
 export function Links({links}: LinksProps) {
     return (
         <div>
-            <nav className="container">
+            <nav className="pure-g">
                 {links.map(({link, description}) =>
-                    (<a href={link} target="_blank" rel="noreferrer" className="two columns">{description}</a>))}
+                    (<a href={link} target="_blank" rel="noreferrer" className="pure-u-1-6">{description}</a>))}
             </nav>
         </div>
     )
