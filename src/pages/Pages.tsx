@@ -43,6 +43,8 @@ const movieLinks = [
 
 const linuxLinks = [
     {link: "https://deepinout.com/linux-kernel-api", description: "Linux内核api"},
+    {link: "https://elixir.bootlin.com/", description: "Linux源码"},
+    {link: "https://git.kernel.org/", description: "Linux kernel"},
     {link: "https://blog.csdn.net/jiuguaqiao6494/article/details/119482013", description: "errno定义"},
     {link: "https://www.cnblogs.com/keatonlao/p/12983158.html", description: "rime使用说明"},
     {link: "http://linasm.sourceforge.net/docs/", description: "Linux系统调用"},
@@ -83,6 +85,7 @@ const newsLinks = [
     {link: "https://www.theguardian.com/", description: "英国卫报"},
     {link: "http://www.stats.gov.cn/", description: "国家统计局"},
     {link: "https://language.chinadaily.com.cn/", description: "双语日报"},
+    {link: "https://www.bp.com/", description: "bp能源"},
     {link: "https://stackoverflow.com/", description: "stackoverflow"},
     {link: "https://www.cnnic.net.cn/", description: "CNNIC"},
     {link: "https://oi-wiki.org/", description: "算法维基"},
@@ -104,6 +107,7 @@ const pictureLinks = [
     {link: "https://www.hpcbristol.net/", description: "历史老图片"},
     {link: "https://fotoforensics.com/", description: "鉴别图片是否PS"},
     {link: "https://graph.baidu.com/pcpage/index?tpl_from=pc", description: "百度识图"},
+    {link: "https://transparent.imageonline.co/", description: "图片透明"},
     {link: "https://bbs.huoying666.com/", description: "火萤壁纸"},
     {link: "https://wallpaperwaifu.com/", description: "waifu壁纸"},
     {link: "https://livewallp.com/", description: "livewallp壁纸"},
@@ -117,8 +121,29 @@ const booksLinks = [
 ];
 
 const schoolLinks = [
-    {link: "https://www.zjlll.net/", description: "浙江学习网"},
-    {link: "https://newjw.hdu.edu.cn", description: "杭电教务"},
+    {link: "https://www.zjooc.cn/", description: "浙江学习网"},
+    {link: "https://hdu.fanya.chaoxing.com/", description: "泛雅平台"},
+    {link: "https://newjw.hdu.edu.cn/", description: "杭电教务"},
+    {link: "https://console.huaweicloud.com/", description: "华为云"},
+];
+
+const pdfLinks = [
+    {link: "https://pdfcandy.com/", description: "pdf candy"},
+    {link: "https://www.ilovepdf.com/", description: "i love pdf"},
+    {link: "https://www.addpdf.cn/", description: "pdf转word"},
+    {link: "https://www.pdf2go.com/", description: "pdf转换器"},
+    {link: "https://easypdf.com/", description: "easy pdf"},
+    {link: "https://www.extractpdf.com/", description: "pdf提取"},
+    {link: "https://www.pdfpai.com/", description: "pdf pai"},
+    {link: "https://pdf2doc.com/", description: "pdf to doc"},
+    {link: "https://cn.office-converter.com/", description: "office converter"},
+];
+
+const javaLinks = [
+    {link: "https://docs.oracle.com/en/java/javase/17/docs/", description: "Java api"},
+    {link: "https://openjfx.io/javadoc/17/", description: "javaFX api"},
+    {link: "https://www.jetbrains.com/help/idea/", description: "idea help"},
+    {link: "https://docs.oracle.com/javase/9/tools/jdeprscan.htm", description: "jdeprscan"},
 ];
 
 export function News() {
@@ -190,6 +215,42 @@ export function Books() {
         <div>
             <h1>Books</h1>
             <Links links={booksLinks}/>
+        </div>
+    )
+}
+
+export function Picture() {
+    return (
+        <div>
+            <h1>Picture</h1>
+            <Links links={pictureLinks}/>
+        </div>
+    )
+}
+
+export function School() {
+    return (
+        <div>
+            <h1>School</h1>
+            <Links links={schoolLinks}/>
+        </div>
+    )
+}
+
+export function PDF() {
+    return (
+        <div>
+            <h1>PDF</h1>
+            <Links links={pdfLinks}/>
+        </div>
+    )
+}
+
+export function Java() {
+    return (
+        <div>
+            <h1>Java</h1>
+            <Links links={javaLinks}/>
         </div>
     )
 }

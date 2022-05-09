@@ -2,9 +2,9 @@ import React from 'react';
 import {Routes,Route} from "react-router-dom";
 import {Home} from "./pages/Home";
 import './App.css';
-import {Linux,Cryptography,Web,Docker,Movie,Tools,News,Books} from "./pages/Pages";
+import {Linux, Cryptography, Web, Docker, Movie, Tools, News, Books, School, PDF, Java, Picture} from "./pages/Pages";
 
-const links=["cryptography","linux","movie","web","docker","tools","news"];
+const links=["cryptography","linux","movie","web","docker","tools","news","picture","school","pdf","java"];
 
 function App() {
     return (
@@ -19,6 +19,10 @@ function App() {
                 <Route path="/tools" element={<Tools/>}/>
                 <Route path="/news" element={<News/>}/>
                 <Route path="/books" element={<Books/>}/>
+                <Route path="/picture" element={<Picture/>}/>
+                <Route path="/school" element={<School/>}/>
+                <Route path="/pdf" element={<PDF/>}/>
+                <Route path="/java" element={<Java/>}/>
             </Routes>
         </div>
     );
