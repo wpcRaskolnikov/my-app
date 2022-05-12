@@ -35,6 +35,9 @@
           <option value="http://www1.baiten.cn" />
           <option value="http://ip111.cn" />
           <option value="http://www.stats.gov.cn" />
+          <option value="http://tool.bugku.com" />
+          <option value="http://www.hiencode.com" />
+          <option value="http://pic.people.com.cn" />
         </list>
       </option>
     </inspection_tool>

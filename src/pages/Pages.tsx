@@ -17,6 +17,8 @@ const webLinks = [
     {link: "https://www.kinh.cc/", description: "IP工具箱"},
     {link: "https://www.jetbrains.com/help/idea/", description: "idea手册"},
     {link: "https://kangax.github.io/compat-table/esnext/", description: "next ES"},
+    {link: "https://react.docschina.org/", description: "react文档"},
+    {link: "https://markdown.com.cn/", description: "markdown手册"},
 ];
 
 const cryptographyLinks = [
@@ -28,6 +30,8 @@ const cryptographyLinks = [
     {link: "https://gchq.github.io/CyberChef/", description: "密码学工具箱"},
     {link: "https://gmssl.org/", description: "openssl"},
     {link: "https://the-x.cn/", description: "the X工具箱"},
+    {link: "http://tool.bugku.com/", description: "BugKu工具箱"},
+    {link: "http://www.hiencode.com/", description: "ssl在线工具"},
 ];
 
 const dockerLinks = [
@@ -38,7 +42,10 @@ const dockerLinks = [
 
 const movieLinks = [
     {link: "https://ddrk.me/", description: "低端影视"},
+    {link: "https://www.1905.com/", description: "1905电影网"},
+    {link: "http://www.verycd.com/", description: "VeryCD"},
     {link: "https://www.agemys.com/", description: "AGE动漫"},
+    {link: "https://tv.cctv.com/", description: "CCTV"},
 ];
 
 const linuxLinks = [
@@ -54,6 +61,7 @@ const linuxLinks = [
     {link: "https://linuxtools-rst.readthedocs.io/", description: "Linux Tools Quick Tutorial"},
     {link: "https://hackmd.io/@sysprog/SySTMXPvl", description: "Makefile语法"},
     {link: "https://docs.microsoft.com/zh-cn/cpp/linux/", description: "visual studio手册"},
+    {link: "https://seisman.github.io/how-to-write-makefile/", description: "makefile"},
 ];
 
 const toolsLinks = [
@@ -79,13 +87,19 @@ const toolsLinks = [
     {link: "https://www.geogebra.org/", description: "数学工具"},
     {link: "https://new-qk.lifves.com/", description: "期刊杂志"},
     {link: "https://pixelmap.amcharts.com/", description: "地图生成"},
+    {link: "https://www.onlinedown.net/", description: "华军软件园"},
+    {link: "https://www.mydrivers.com/zhuanti/tianti/gpum/index.html", description: "显卡性能图"},
+    {link: "https://www.online-convert.com/", description: "文件转换"},
+    {link: "https://chinese-colors.heyfe.org/", description: "中国色彩"},
 ];
 
 const newsLinks = [
     {link: "https://www.theguardian.com/", description: "英国卫报"},
     {link: "http://www.stats.gov.cn/", description: "国家统计局"},
     {link: "https://language.chinadaily.com.cn/", description: "双语日报"},
+    {link: "https://www.ngchina.com.cn/", description: "国家地理中文网"},
     {link: "https://www.bp.com/", description: "bp能源"},
+    {link: "https://cn.knoema.com/", description: "国内外统计数据"},
     {link: "https://stackoverflow.com/", description: "stackoverflow"},
     {link: "https://www.cnnic.net.cn/", description: "CNNIC"},
     {link: "https://oi-wiki.org/", description: "算法维基"},
@@ -114,10 +128,18 @@ const pictureLinks = [
     {link: "https://www.livewallpaperpc.com/", description: "livewallpaper壁纸"},
     {link: "https://zhutix.com/", description: "致美儿壁纸"},
     {link: "https://livewallpaper.giantapp.cn/", description: "巨应壁纸"},
+    {link: "https://www.dpm.org.cn/Home.html/", description: "故宫博物馆"},
+    {link: "https://lab.5ime.cn/video/", description: "链接去水印"},
+    {link: "https://ps.gaoding.com/", description: "在线ps"},
+    {link: "https://www.photopea.com/", description: "在线ps-en"},
+    {link: "https://tt0.top/", description: "gif工具"},
+    {link: "https://www.magiceraser.io/", description: "在线去水印"},
 ];
 
 const booksLinks = [
     {link: "https://gaia.cs.umass.edu/kurose_ross/", description: "计算机网络"},
+    {link: "https://lwebapp.com/zh/mobi-reader", description: "在线mobi阅读器"},
+    {link: "https://www.zxx.edu.cn/elecEdu", description: "电子教材"},
 ];
 
 const schoolLinks = [
@@ -125,6 +147,7 @@ const schoolLinks = [
     {link: "https://hdu.fanya.chaoxing.com/", description: "泛雅平台"},
     {link: "https://newjw.hdu.edu.cn/", description: "杭电教务"},
     {link: "https://console.huaweicloud.com/", description: "华为云"},
+
 ];
 
 const pdfLinks = [
@@ -146,7 +169,48 @@ const javaLinks = [
     {link: "https://docs.oracle.com/javase/9/tools/jdeprscan.htm", description: "jdeprscan"},
 ];
 
-export function News() {
+const workbooksLinks = [
+    {link: "https://adworld.xctf.org.cn/", description: "攻防世界"},
+    {link: "https://ctf.bugku.com/", description: "bugku"},
+    {link: "https://www.nowcoder.com/", description: "牛客"},
+    {link: "https://pintia.cn/", description: "PTA"},
+    {link: "https://leetcode.cn/", description: "力扣"},
+    {link: "https://www.luogu.com.cn/", description: "洛谷"},
+    {link: "https://acm.hdu.edu.cn/", description: "杭电oj"},
+    {link: "https://www.51zxw.net/", description: "我要自学网"},
+];
+
+const searchLinks = [
+    {link: "https://g.luciaz.me/", description: "心灵之约"},
+    {link: "https://searx.space/", description: "SearX"},
+    {link: "https://www.wolframalpha.com/", description: "wolframalpha"},
+    {link: "https://hyperbeam.com ", description: "hyperbeam"},
+    {link: "https://magi.com/", description: "magi"},
+];
+
+const funLinks = [
+    {link: "https://m.jrj.com.cn/hq/bigtree", description: "大盘云图-股票"},
+    {link: "https://p.hancel.org", description: "摸鱼闯关"},
+    {link: "https://nazo.one-story.cn/", description: "nazo game"},
+    {link: "https://www.nytimes.com/wordle/", description: "wordle"},
+    {link: "https://handle.antfu.me/", description: "成语猜谜"},
+    {link: "http://www.chengyuji.cn/fenlei/", description: "成语大全"},
+    {link: "https://fc.zhouxiaoben.info/", description: "怀旧NFC"},
+    {link: "https://uahh.syouzyo.org/fyzhq/", description: "中文发音转外语"},
+    {link: "https://cobysy.github.io/shodo/", description: "书法练习"},
+    {link: "https://www.templatemaker.nl/zh-cn/", description: "纸盒制作"},
+    {link: "https://pinyincaichengyu.com/", description: "拼音猜成语"},
+    {link: "https://passer-by.com/relationship/", description: "中国亲戚转换器"},
+    {link: "https://www.foodwake.com/", description: "唤醒食物"},
+    {link: "https://ask.nocode.com/", description: "就诊问医"},
+];
+
+const musicLinks = [
+    {link: "https://igoutu.cn/music/", description: "bgm音乐"},
+    {link: "https://musicboxmaniacs.com/", description: "音乐盒社区"},
+];
+
+export function NewsPage() {
     return (
         <div>
             <h1>News</h1>
@@ -155,7 +219,7 @@ export function News() {
     )
 }
 
-export function Web() {
+export function WebPage() {
     return (
         <div>
             <h1>Web</h1>
@@ -164,7 +228,7 @@ export function Web() {
     )
 }
 
-export function Cryptography() {
+export function CryptographyPage() {
     return (
         <div>
             <h1>Cryptography</h1>
@@ -173,7 +237,7 @@ export function Cryptography() {
     )
 }
 
-export function Docker() {
+export function DockerPage() {
 
     return (
         <div>
@@ -183,7 +247,7 @@ export function Docker() {
     )
 }
 
-export function Linux() {
+export function LinuxPage() {
     return (
         <div>
             <h1>Linux</h1>
@@ -192,7 +256,7 @@ export function Linux() {
     )
 }
 
-export function Movie() {
+export function MoviePage() {
     return (
         <div>
             <h1>Movie</h1>
@@ -201,7 +265,7 @@ export function Movie() {
     )
 }
 
-export function Tools() {
+export function ToolsPage() {
     return (
         <div>
             <h1>Tools</h1>
@@ -210,7 +274,7 @@ export function Tools() {
     )
 }
 
-export function Books() {
+export function BooksPage() {
     return (
         <div>
             <h1>Books</h1>
@@ -219,7 +283,7 @@ export function Books() {
     )
 }
 
-export function Picture() {
+export function PicturePage() {
     return (
         <div>
             <h1>Picture</h1>
@@ -228,7 +292,7 @@ export function Picture() {
     )
 }
 
-export function School() {
+export function SchoolPage() {
     return (
         <div>
             <h1>School</h1>
@@ -237,7 +301,7 @@ export function School() {
     )
 }
 
-export function PDF() {
+export function PDFPage() {
     return (
         <div>
             <h1>PDF</h1>
@@ -246,7 +310,7 @@ export function PDF() {
     )
 }
 
-export function Java() {
+export function JavaPage() {
     return (
         <div>
             <h1>Java</h1>
@@ -254,3 +318,40 @@ export function Java() {
         </div>
     )
 }
+
+export function WorkbooksPage() {
+    return (
+        <div>
+            <h1>Workbooks</h1>
+            <Links links={workbooksLinks}/>
+        </div>
+    )
+}
+
+export function SearchPage() {
+    return (
+        <div>
+            <h1>Search</h1>
+            <Links links={searchLinks}/>
+        </div>
+    )
+}
+
+export function FunPage() {
+    return (
+        <div>
+            <h1>Fun</h1>
+            <Links links={funLinks}/>
+        </div>
+    )
+}
+
+export function MusicPage() {
+    return (
+        <div>
+            <h1>Music</h1>
+            <Links links={musicLinks}/>
+        </div>
+    )
+}
+
