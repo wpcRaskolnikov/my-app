@@ -1,5 +1,5 @@
 import React from 'react';
-import {Button, ButtonGroup} from "@mui/material";
+import {Button,Box} from "@mui/material";
 
 type LinksProps = {
     links: {link:string,description:string}[];
@@ -7,12 +7,22 @@ type LinksProps = {
 
 export function Links({links}: LinksProps) {
     return (
-        <ButtonGroup>
+        <Box
+            sx={{
+                display: 'grid',
+                columnGap: 3,
+                rowGap: 1,
+                gridTemplateColumns: 'repeat(6, 1fr)',
+
+
+            }}
+        >
             {links.map(({link, description}) =>
-                (<Button href={link} target="_blank" rel="noreferrer">
-                      {description}
+                (<Button sx={{p: 2,border: '1px solid grey',}} href={link} target="_blank" rel="noreferrer">
+                    {description}
                 </Button>))}
-        </ButtonGroup>
+        </Box>
+
 
 
     )
