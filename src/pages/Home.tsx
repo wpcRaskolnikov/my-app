@@ -1,6 +1,7 @@
 import React from 'react';
 import {Drawer, Toolbar, List, ListItem,ListItemButton,ListItemIcon} from "@mui/material";
 import {School} from '@mui/icons-material';
+import {Link} from "react-router-dom";
 
 type HomeProps = {
     links: String[];
@@ -17,8 +18,8 @@ export function Home({links}: HomeProps) {
                     </ListItemButton>
                 ))}
                 <ListItem>
-                <ListItemButton component="a" sx={{p: 2, border: '1px grey',}} href="cryptography">
-                    abc
+                <ListItemButton  sx={{p: 2, border: '1px grey',}}>
+                    <Link to="cryptography">abc</Link>
                 </ListItemButton>
                 <ListItemIcon>
                     <School/>
