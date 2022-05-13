@@ -9,25 +9,15 @@ type HomeProps = {
 
 export function Home({links}: HomeProps) {
     return (
-        <Drawer variant="permanent" open={true}>
-            <Toolbar/>
-            <List>
-                {links.map((i) => (
-                    <ListItemButton sx={{p: 2, border: '1px grey',}}>
-                        <Link to={i as string} className="pure-menu-link">{i}</Link>
-                    </ListItemButton>
-                ))}
-                <ListItem>
-                <ListItemButton  sx={{p: 2, border: '1px grey',}}>
-                    <Link to="cryptography">abc</Link>
-                </ListItemButton>
-                <ListItemIcon>
-                    <School/>
-                </ListItemIcon>
-                </ListItem>
-            </List>
+        <div className="pure-menu pure-menu-horizontal">
 
-        </Drawer>
+            <ul>
+                <li>
+                    {links.map((i)=>(
+                        <Link to={i as string} className="pure-menu-link">{i}</Link>))}</li>
+            </ul>
+            <h1>Home</h1>
+        </div>
 
     )
 }
