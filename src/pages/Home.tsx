@@ -13,8 +13,8 @@ export function Home({links}: HomeProps) {
             <Toolbar/>
             <List>
                 {links.map((i) => (
-                    <ListItemButton component="a" sx={{p: 2, border: '1px grey',}} href={i as string}>
-                        {i}
+                    <ListItemButton sx={{p: 2, border: '1px grey',}}>
+                        <Link to={i as string} className="pure-menu-link">{i}</Link>
                     </ListItemButton>
                 ))}
                 <ListItem>
