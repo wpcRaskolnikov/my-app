@@ -2,12 +2,16 @@ import React from 'react';
 import {Routes,Route} from "react-router-dom";
 import {Home} from "./pages/Home";
 import './App.css';
-import {LinuxPage, CryptographyPage, WebPage, DockerPage, MoviePage, ToolsPage,
-    NewsPage, BooksPage, SchoolPage, PDFPage, JavaPage, PicturePage,WorkbooksPage,
-    SearchPage,FunPage,MusicPage} from "./pages/Pages";
+import {
+    LinuxPage, CryptographyPage, WebPage, DockerPage, MoviePage, ToolsPage, NewsPage,
+    BooksPage, SchoolPage, PDFPage, JavaPage, PicturePage, WorkbooksPage, SearchPage,
+    FunPage, MusicPage, WallpaperPage, GamePage, ComputerPage, AnimePage, SoftwarePage
+} from "./pages/Pages";
 
-const links=["cryptography","linux","movie","web","docker","tools","news","picture","school","pdf","java",
-"workbooks","search","fun","music"];
+const links=[
+    "anime","books","computer","cryptography","docker","fun","game","java","linux","movie",
+    "music","news","pdf","picture","school","search","software","tools","wallpaper", "web", "workbooks",
+    ];
 
 function App() {
     return (
@@ -30,6 +34,11 @@ function App() {
                 <Route path="/search" element={<SearchPage/>}/>
                 <Route path="/fun" element={<FunPage/>}/>
                 <Route path="/music" element={<MusicPage/>}/>
+                <Route path="/wallpaper" element={<WallpaperPage/>}/>
+                <Route path="/game" element={<GamePage/>}/>
+                <Route path="/computer" element={<ComputerPage/>}/>
+                <Route path="/anime" element={<AnimePage/>}/>
+                <Route path="/wallpaper" element={<SoftwarePage/>}/>
             </Routes>
         </div>
     );

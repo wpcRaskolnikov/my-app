@@ -1,0 +1,54 @@
+[
+  {
+    "link": "https://deepinout.com/linux-kernel-api",
+    "description": "Linux内核api"
+  },
+  {
+    "link": "https://elixir.bootlin.com/",
+    "description": "Linux源码"
+  },
+  {
+    "link": "https://git.kernel.org/",
+    "description": "Linux kernel"
+  },
+  {
+    "link": "https://blog.csdn.net/jiuguaqiao6494/article/details/119482013",
+    "description": "errno定义"
+  },
+  {
+    "link": "https://www.cnblogs.com/keatonlao/p/12983158.html",
+    "description": "rime使用说明"
+  },
+  {
+    "link": "http://linasm.sourceforge.net/docs/",
+    "description": "Linux系统调用"
+  },
+  {
+    "link": "https://www.vimgolf.com/",
+    "description": "vim挑战"
+  },
+  {
+    "link": "https://www.linuxprobe.com/",
+    "description": "刘遄博客"
+  },
+  {
+    "link": "https://opensource.com/article/18/8/what-how-makefile",
+    "description": "Makefile基础"
+  },
+  {
+    "link": "https://linuxtools-rst.readthedocs.io/",
+    "description": "Linux Tools Quick Tutorial"
+  },
+  {
+    "link": "https://hackmd.io/@sysprog/SySTMXPvl",
+    "description": "Makefile语法"
+  },
+  {
+    "link": "https://docs.microsoft.com/zh-cn/cpp/linux/",
+    "description": "visual studio手册"
+  },
+  {
+    "link": "https://seisman.github.io/how-to-write-makefile/",
+    "description": "makefile"
+  }
+]

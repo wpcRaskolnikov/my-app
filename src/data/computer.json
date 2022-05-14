@@ -1,0 +1,54 @@
+[
+  {
+    "link": "https://stackoverflow.com/",
+    "description": "stackoverflow"
+  },
+  {
+    "link": "https://sourceforge.net/",
+    "description": "开源软件"
+  },
+  {
+    "link": "https://www.cnnic.net.cn/",
+    "description": "CNNIC"
+  },
+  {
+    "link": "https://oi-wiki.org/",
+    "description": "算法维基"
+  },
+  {
+    "link": "https://www.questmobile.com.cn/",
+    "description": "Quest Mobile"
+  },
+  {
+    "link": "https://coolshell.cn//",
+    "description": "陈皓博客"
+  },
+  {
+    "link": "https://www.ruanyifeng.com",
+    "description": "阮一峰博客"
+  },
+  {
+    "link": "https://thewebdev.info/",
+    "description": "John Au-Yeung’s blog"
+  },
+  {
+    "link": "https://www.cnblogs.com/vamei/",
+    "description": "vamei’s blog"
+  },
+  {
+    "link": "https://www.mydrivers.com/zhuanti/tianti/gpum/index.html",
+    "description": "显卡性能图"
+  },
+  {
+    "link": "https://next.itellyou.cn/",
+    "description": "操作系统镜像"
+  },
+  {
+    "link": "https://www.itjuzi.com/deathCompan/",
+    "description": "it死亡公司"
+  },
+  {
+    "link": "https://salary.jfstone.cn/",
+    "description": "各省薪资"
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "link": "https://www.w3schools.com/",
+    "description": "w3schools"
+  },
+  {
+    "link": "https://validator.w3.org/",
+    "description": "html验证"
+  },
+  {
+    "link": "https://developer.mozilla.org/",
+    "description": "MDN"
+  },
+  {
+    "link": "https://nipponcolors.com/",
+    "description": "日本传统颜色"
+  },
+  {
+    "link": "https://www.color-hex.com/",
+    "description": "十六进制颜色"
+  },
+  {
+    "link": "https://www.webfx.com/web-design/color-picker/1F85DE/",
+    "description": "web颜色"
+  },
+  {
+    "link": "https://www.php.net/manual/",
+    "description": "php手册"
+  },
+  {
+    "link": "https://dev.mysql.com/doc/refman/5.7/en/",
+    "description": "MYSQL5.7手册"
+  },
+  {
+    "link": "https://babeljs.io/",
+    "description": "Babel"
+  },
+  {
+    "link": "https://github.com/haixiangyan/make-wheels",
+    "description": "npm造轮子"
+  },
+  {
+    "link": "https://docs.xilinx.com/",
+    "description": "xilinx文档"
+  },
+  {
+    "link": "https://www.kinh.cc/",
+    "description": "IP工具箱"
+  },
+  {
+    "link": "https://kangax.github.io/compat-table/esnext/",
+    "description": "next ES"
+  },
+  {
+    "link": "https://react.docschina.org/",
+    "description": "react文档"
+  },
+  {
+    "link": "https://markdown.com.cn/",
+    "description": "markdown手册"
+  },
+  {
+    "link": "https://mui.com/",
+    "description": "mui"
+  },
+  {
+    "link": "http://ip111.cn",
+    "description": "ip地址查询"
+  }
+]

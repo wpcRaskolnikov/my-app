@@ -1,0 +1,9 @@
+[
+  {"link": "https://adworld.xctf.org.cn/", "description": "攻防世界"},
+  {"link": "https://ctf.bugku.com/", "description": "bugku"},
+  {"link": "https://www.nowcoder.com/", "description": "牛客"},
+  {"link": "https://pintia.cn/", "description": "PTA"},
+  {"link": "https://leetcode.cn/", "description": "力扣"},
+  {"link": "https://www.luogu.com.cn/", "description": "洛谷"},
+  {"link": "https://acm.hdu.edu.cn/", "description": "杭电oj"}
+]
