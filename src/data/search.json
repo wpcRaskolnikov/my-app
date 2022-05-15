@@ -7,10 +7,7 @@
     "link": "https://searx.space/",
     "description": "SearX"
   },
-  {
-    "link": "https://www.wolframalpha.com/",
-    "description": "wolframalpha"
-  },
+
   {
     "link": "https://hyperbeam.com ",
     "description": "hyperbeam"
@@ -22,6 +19,22 @@
   {
     "link": "https://www.chaonengsou.com/",
     "description": "超能搜"
+  },
+  {
+    "link": "https://www.niceso.fun/",
+    "description": "奈斯搜索"
+  },
+  {
+    "link": "https://www.upyunso.com/",
+    "description": "up云搜"
+  },
+  {
+    "link": "https://www.juzipansou.com/",
+    "description": "橘子盘搜"
+  },
+  {
+    "link": "https://www.alipansou.com/",
+    "description": "阿里云搜"
   },
   {
     "link": "https://yun.hei521.cn/",
@@ -38,5 +51,9 @@
   {
     "link": "https://www.xuebapan.com/",
     "description": "学霸搜"
+  },
+  {
+    "link": "https://v3.ujuso.com/",
+    "description": "优聚搜"
   }
 ]

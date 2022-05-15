@@ -74,5 +74,37 @@
   {
     "link": "https://snapdrop.net/",
     "description": "手机电脑传输文件"
+  },
+  {
+    "link": "https://zh.weatherspark.com/",
+    "description": "全年天气"
+  },
+  {
+    "link": "https://versus.com/",
+    "description": "万物皆可对比"
+  },
+  {
+    "link": "https://datamuse.guokr.com/",
+    "description": "果壳数据可视化"
+  },
+  {
+    "link": "https://www.visualcapitalist.com/",
+    "description": "数据大全"
+  },
+  {
+    "link": "https://www.calligrapher.ai/",
+    "description": "英文手写体"
+  },
+  {
+    "link": "https://www.languageguide.org/",
+    "description": "各国日常用语"
+  },
+  {
+    "link": "https://airportal.cn/",
+    "description": "文件传输"
+  },
+  {
+    "link": "https://qrascii.deno.dev/",
+    "description": "字符转二维码"
   }
 ]

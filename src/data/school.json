@@ -4,6 +4,14 @@
     "description": "浙江学习网"
   },
   {
+    "link": "https://sci-hub.st/",
+    "description": "sci-hub"
+  },
+  {
+    "link": "https://sci-hub.se/",
+    "description": "sci-hub"
+  },
+  {
     "link": "https://hdu.fanya.chaoxing.com/",
     "description": "泛雅平台"
   },
@@ -32,16 +40,40 @@
     "description": "佰腾专利库"
   },
   {
+    "link": "https://sojo.im/",
+    "description": "论文生成器"
+  },
+  {
     "link": "http://codeinword.com/",
     "description": "代码美化"
   },
   {
     "link": "https://www.geogebra.org/",
-    "description": "数学工具"
+    "description": "GeoGebra"
+  },
+  {
+    "link": "https://www.mathway.com/",
+    "description": "MathWay"
+  },
+  {
+    "link": "https://www.wolframalpha.com/",
+    "description": "wolframalpha"
+  },
+  {
+    "link": "https://zh.numberempire.com/",
+    "description": "数学帝国"
   },
   {
     "link": "https://app.diagrams.net/",
     "description": "流程图制作"
+  },
+  {
+    "link": "https://zhenti.burningvocabulary.com/",
+    "description": "在线英语真题"
+  },
+  {
+    "link": "https://examcoo.com/",
+    "description": "考试库"
   },
   {
     "link": "https://gitmind.cn/",

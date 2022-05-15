@@ -16,16 +16,52 @@
     "description": "算法维基"
   },
   {
+    "link": "https://ithelp.ithome.com.tw/",
+    "description": "IT邦帮忙"
+  },
+  {
+    "link": "https://www.yiibai.com/",
+    "description": "易百教程"
+  },
+  {
     "link": "https://www.questmobile.com.cn/",
     "description": "Quest Mobile"
   },
   {
-    "link": "https://coolshell.cn//",
+    "link": "https://www.solidot.org/",
+    "description": "奇客"
+  },
+  {
+    "link": "https://www.infoq.cn/",
+    "description": "infoQ"
+  },
+  {
+    "link": "https://coolshell.cn/",
     "description": "陈皓博客"
+  },
+  {
+    "link": "http://paulgraham.com/",
+    "description": "Paul Graham"
+  },
+  {
+    "link": "https://www.joelonsoftware.com/",
+    "description": "joel on software"
+  },
+  {
+    "link": "https://news.ycombinator.com/",
+    "description": "hacker news"
+  },
+  {
+    "link": "https://docs.microsoft.com/en-us/archive/blogs/",
+    "description": "MSDN"
   },
   {
     "link": "https://www.ruanyifeng.com",
     "description": "阮一峰博客"
+  },
+  {
+    "link": "https://www.kalzumeus.com/\n",
+    "description": "kalzumenu's blog"
   },
   {
     "link": "https://thewebdev.info/",

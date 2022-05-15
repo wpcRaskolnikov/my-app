@@ -4,6 +4,10 @@
     "description": "Linux内核api"
   },
   {
+    "link": "https://linux.cn/",
+    "description": "Linux中国"
+  },
+  {
     "link": "https://elixir.bootlin.com/",
     "description": "Linux源码"
   },

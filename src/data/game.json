@@ -1,4 +1,8 @@
-[  {"link": "https://nazo.one-story.cn/", "description": "趣味闯关"},
+[
+  {
+    "link": "https://nazo.one-story.cn/",
+    "description": "趣味闯关"
+  },
   {
     "link": "https://p.hancel.org",
     "description": "摸鱼闯关"
@@ -38,6 +42,10 @@
   {
     "link": "edge://surf/",
     "description": "edge游戏"
+  },
+  {
+    "link": "https://www.xiiigame.com/example/",
+    "description": "拼字游戏"
   },
   {
     "link": "https://fc.zhouxiaoben.info/",
