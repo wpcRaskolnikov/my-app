@@ -44,6 +44,14 @@
     "description": "日语语法学习"
   },
   {
+    "link": "https://suulnnka.github.io/BullshitGenerator/",
+    "description": "狗屁文章生成器"
+  },
+  {
+    "link": "https://kaseidis.gitee.io/interesting_gadgets/marketing_generator/index.htm",
+    "description": "营销号生成器"
+  },
+  {
     "link": "https://sojo.im/slscq/",
     "description": "论文生成器"
   },
@@ -64,8 +72,20 @@
     "description": "数列生成"
   },
   {
+    "link": "https://www.lishichelun.com/wheel",
+    "description": "历史车轮"
+  },
+  {
+    "link": "https://codeh.cn/old/utils/MathQuestionGen.html",
+    "description": "小学口算生成"
+  },
+  {
     "link": "https://www.geogebra.org/",
     "description": "GeoGebra"
+  },
+  {
+    "link": "https://zs.symbolab.com/",
+    "description": "数学方程分步求解"
   },
   {
     "link": "https://www.mathway.com/",
@@ -90,6 +110,14 @@
   {
     "link": "https://examcoo.com/",
     "description": "考试库"
+  },
+  {
+    "link": "https://www.babelabc.com/",
+    "description": "美剧英语"
+  },
+  {
+    "link": "https://www.youzack.com/",
+    "description": "学英语"
   },
   {
     "link": "https://zhongkai.github.io/nhr/",

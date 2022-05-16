@@ -4,6 +4,30 @@
     "description": "pixbay"
   },
   {
+    "link": "http://waifu2x.udp.jp/",
+    "description": "二次元图片放大"
+  },
+  {
+    "link": "https://zh.pixfix.com/",
+    "description": "pixfix图片放大"
+  },
+  {
+    "link": "https://bigjpg.com/",
+    "description": "AI图片放大"
+  },
+  {
+    "link": "http://pf.bigpixel.cn/zh-CN.html",
+    "description": "千亿像素看中国"
+  },
+  {
+    "link": "https://www.airpano.org.cn/",
+    "description": "3D航拍"
+  },
+  {
+    "link": "https://www.zhijianshang.com/",
+    "description": "全球景观"
+  },
+  {
     "link": "http://pic.people.com.cn/",
     "description": "人民网图片"
   },
@@ -18,6 +42,10 @@
   {
     "link": "https://www.uugai.com/",
     "description": "logo生成器"
+  },
+  {
+    "link": "https://deviceshots.com/",
+    "description": "生成手机截图"
   },
   {
     "link": "https://www.iconfont.cn/",
@@ -64,12 +92,32 @@
     "description": "在线ps-en"
   },
   {
+    "link": "https://photoshop.adobe.com/",
+    "description": "Adobe在线ps"
+  },
+  {
+    "link": "https://thumbnail.ai/",
+    "description": "链接生成海报"
+  },
+  {
+    "link": "https://lab.bangbang93.com/",
+    "description": "gif倒放"
+  },
+  {
     "link": "https://tt0.top/",
     "description": "gif工具"
   },
   {
+    "link": "http://watermark.dxcweb.com/",
+    "description": "纯前端加水印"
+  },
+  {
     "link": "https://www.magiceraser.io/",
     "description": "在线去水印"
+  },
+  {
+    "link": "https://theinpaint.com/",
+    "description": "去水印"
   },
   {
     "link": "https://www.remove.bg/",
@@ -128,6 +176,18 @@
     "description": "艺术字体生成"
   },
   {
+    "link": "https://www.unitag.io/fr/qrcode",
+    "description": "二维码美化"
+  },
+  {
+    "link": " http://www.piaofangw.com/",
+    "description": "艺术字体转换"
+  },
+  {
+    "link": "https://ascii-generator.site/",
+    "description": "ascii艺术字体生成"
+  },
+  {
     "link": "https://toonme.com/",
     "description": "卡通图片"
   },
@@ -138,6 +198,10 @@
   {
     "link": "https://blush.design/",
     "description": "卡通头像生成"
+  },
+  {
+    "link": "https://multiavatar.com/ ",
+    "description": "生成用户头像"
   },
   {
     "link": "https://multiavatar.com/",
@@ -164,8 +228,16 @@
     "description": "摄像头捕捉火柴人"
   },
   {
+    "link": "https://photomosh.com/",
+    "description": "故障图片生成"
+  },
+  {
     "link": "https://mi-logo.lvwzhen.com/",
     "description": "小米logo生成"
+  },
+  {
+    "link": "https://emblemmatic.org/",
+    "description": "公司logo生成"
   },
   {
     "link": "https://imgflip.com/memetemplates/",

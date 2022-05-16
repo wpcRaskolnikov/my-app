@@ -4,6 +4,18 @@
     "description": "stackoverflow"
   },
   {
+    "link": "http://qingwendang.com/",
+    "description": "在线u盘"
+  },
+  {
+    "link": "https://www.latexlive.com/",
+    "description": "数学公式在线编辑器"
+  },
+  {
+    "link": "https://mathcode.herokuapp.com/",
+    "description": "截图转数学公式"
+  },
+  {
     "link": "https://sourceforge.net/",
     "description": "开源软件"
   },

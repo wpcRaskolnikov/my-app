@@ -4,6 +4,26 @@
     "description": "低端影视"
   },
   {
+    "link": "http://www.impawards.com/",
+    "description": "1912海报库"
+  },
+  {
+    "link": "https://www.dianyinggou.com/",
+    "description": "电影狗"
+  },
+  {
+    "link": "https://douyabot.com/",
+    "description": "豆瓣走势"
+  },
+  {
+    "link": "https://datamuse.guokr.com/web?page=ltd&from_channel=play&from=GK",
+    "description": "自动生成短剧"
+  },
+  {
+    "link": "https://www.taicishe.com",
+    "description": "电影台词"
+  },
+  {
     "link": "https://film-grab.com/",
     "description": "电影剧照"
   },

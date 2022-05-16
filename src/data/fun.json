@@ -40,6 +40,18 @@
     "description": "趣味测试"
   },
   {
+    "link": "https://quickdraw.withgoogle.com/",
+    "description": "你画我猜"
+  },
+  {
+    "link": "https://oreo.ddiu.me/",
+    "description": "奥利奥生成"
+  },
+  {
+    "link": "https://www.arealme.com/chinese-vocabulary-size-test/cn/",
+    "description": "测试中文词汇量"
+  },
+  {
     "link": "http://xiaosang.net/gushi_namer/",
     "description": "古诗文起人名"
   },
@@ -64,6 +76,10 @@
     "description": "微博热搜"
   },
   {
+    "link": "https://trends.zhiweidata.com/",
+    "description": "知乎热搜"
+  },
+  {
     "link": "https://rssfeed.today/weibo/",
     "description": "微博转RSS"
   },
@@ -78,6 +94,10 @@
   {
     "link": "https://web.xiangyin.mobi/",
     "description": "乡音"
+  },
+  {
+    "link": "https://versailles.deno.js.cn/",
+    "description": "凡尔赛语录"
   },
   {
     "link": "https://www.xiwnn.com/",
