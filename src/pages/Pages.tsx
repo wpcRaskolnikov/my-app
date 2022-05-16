@@ -239,7 +239,7 @@ export function SoftwarePage() {
     return (
         <div>
             <h1>Software</h1>
-            <Theme links={wallpaperLinks}/>
+            <Theme links={softwareLinks}/>
         </div>
     )
 }
