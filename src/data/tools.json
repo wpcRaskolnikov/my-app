@@ -104,6 +104,22 @@
     "description": "文件传输"
   },
   {
+    "link": "https://toolwa.com/record/",
+    "description": "在线屏幕录制"
+  },
+  {
+    "link": "http://zhongguose.com/",
+    "description": "中囯色"
+  },
+  {
+    "link": "https://colorable.jxnblk.com/",
+    "description": "文本顔色配置"
+  },
+  {
+    "link": "https://hiragana.jp/",
+    "description": "日文网站翻译"
+  },
+  {
     "link": "https://qrascii.deno.dev/",
     "description": "字符转二维码"
   }

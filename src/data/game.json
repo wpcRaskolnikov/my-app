@@ -28,8 +28,32 @@
     "description": "nazo game"
   },
   {
+    "link": "https://koalastothemax.com/",
+    "description": "细胞分裂（?Base64(图片url)）"
+  },
+  {
+    "link": "https://www.yikm.net/",
+    "description": "小霸王"
+  },
+  {
+    "link": "https://chvin.github.io/react-tetris/",
+    "description": "俄罗斯方块"
+  },
+  {
+    "link": "https://battle-city.js.org/",
+    "description": "超级玛丽"
+  },
+  {
+    "link": "https://pvz.heheda.top/",
+    "description": "pvz"
+  },
+  {
     "link": "https://1990.games/",
     "description": "flash游戏"
+  },
+  {
+    "link": "https://flash.zczc.cz/",
+    "description": "flash保存游戏"
   },
   {
     "link": "https://nes.heheda.top/",

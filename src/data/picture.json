@@ -12,6 +12,14 @@
     "description": "知名logo下载"
   },
   {
+    "link": "https://deepai.org/machine-learning-model/colorizer",
+    "description": "黑白图片上色"
+  },
+  {
+    "link": "https://www.uugai.com/",
+    "description": "logo生成器"
+  },
+  {
     "link": "https://www.iconfont.cn/",
     "description": "阿里巴巴矢量图"
   },
@@ -68,6 +76,10 @@
     "description": "抠图网站"
   },
   {
+    "link": "https://www.unscreen.com/",
+    "description": "去除背景"
+  },
+  {
     "link": "https://www.fococlipping.com/",
     "description": "在线抠图"
   },
@@ -104,6 +116,22 @@
     "description": "人工智能动漫头像"
   },
   {
+    "link": "https://removal.ai/",
+    "description": "去除背景"
+  },
+  {
+    "link": "https://www.qiuziti.com/",
+    "description": "字体识别"
+  },
+  {
+    "link": "https://www.qt86.com/",
+    "description": "艺术字体生成"
+  },
+  {
+    "link": "https://toonme.com/",
+    "description": "卡通图片"
+  },
+  {
     "link": "https://vue-color-avatar.vercel.app/",
     "description": "自定义卡通头像"
   },
@@ -126,6 +154,22 @@
   {
     "link": "https://m.photofunia.com/",
     "description": "图片效果"
+  },
+  {
+    "link": "https://www.dbbqb.com/",
+    "description": "表情包搜索"
+  },
+  {
+    "link": "https://stickfigure-recorder.web.app/",
+    "description": "摄像头捕捉火柴人"
+  },
+  {
+    "link": "https://mi-logo.lvwzhen.com/",
+    "description": "小米logo生成"
+  },
+  {
+    "link": "https://imgflip.com/memetemplates/",
+    "description": "表情包生成器"
   },
   {
     "link": "https://imgflip.com/",

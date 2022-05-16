@@ -40,12 +40,28 @@
     "description": "佰腾专利库"
   },
   {
-    "link": "https://sojo.im/",
+    "link": "https://res.wokanxing.info/",
+    "description": "日语语法学习"
+  },
+  {
+    "link": "https://sojo.im/slscq/",
     "description": "论文生成器"
+  },
+  {
+    "link": "https://m.diyifanwen.com/",
+    "description": "第一范文网"
+  },
+  {
+    "link": "https://fw.chazidian.com/",
+    "description": "范文网"
   },
   {
     "link": "http://codeinword.com/",
     "description": "代码美化"
+  },
+  {
+    "link": "https://oeis.org/",
+    "description": "数列生成"
   },
   {
     "link": "https://www.geogebra.org/",
@@ -74,6 +90,14 @@
   {
     "link": "https://examcoo.com/",
     "description": "考试库"
+  },
+  {
+    "link": "https://zhongkai.github.io/nhr/",
+    "description": "互联网黑话"
+  },
+  {
+    "link": "https://putianxi.github.io/",
+    "description": "莆田医院地图"
   },
   {
     "link": "https://gitmind.cn/",
