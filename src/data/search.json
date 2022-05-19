@@ -4,10 +4,29 @@
     "description": "心灵之约"
   },
   {
+    "link": "https://idesign.qq.com/",
+    "description": "设计导航"
+  },
+  {
+    "link": "https://gobaidugle.com/",
+    "description": "聚合搜索"
+  },
+  {
+    "link": "https://www.chinaso.com/",
+    "description": "中国搜索"
+  },
+  {
+    "link": "https://goobe.io/",
+    "description": "程序员搜索"
+  },
+  {
+    "link": "https://seadesktopsearch.com/",
+    "description": "归海数据"
+  },
+  {
     "link": "https://searx.space/",
     "description": "SearX"
   },
-
   {
     "link": "https://hyperbeam.com ",
     "description": "hyperbeam"

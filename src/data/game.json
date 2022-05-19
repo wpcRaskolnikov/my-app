@@ -4,6 +4,26 @@
     "description": "趣味闯关"
   },
   {
+    "link": "https://yorg.io/",
+    "description": "塔防游戏"
+  },
+  {
+    "link": "https://iogames.space/",
+    "description": "经典游戏"
+  },
+  {
+    "link": "https://www.ctakj.com/games/cat.html",
+    "description": "圈住小猫"
+  },
+  {
+    "link": "https://huazhechen.gitee.io/cuber/",
+    "description": "在线魔方"
+  },
+  {
+    "link": "https://dos.zczc.cz/",
+    "description": "在线DOS"
+  },
+  {
     "link": "https://p.hancel.org",
     "description": "摸鱼闯关"
   },
@@ -44,6 +64,10 @@
     "description": "超级玛丽"
   },
   {
+    "link": "https://battle-city.js.org/#/stage/1",
+    "description": "坦克大战"
+  },
+  {
     "link": "https://pvz.heheda.top/",
     "description": "pvz"
   },
@@ -54,6 +78,10 @@
   {
     "link": "https://flash.zczc.cz/",
     "description": "flash保存游戏"
+  },
+  {
+    "link": "https://cncnet.org/red-alert",
+    "description": "红警行动"
   },
   {
     "link": "https://nes.heheda.top/",

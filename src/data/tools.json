@@ -4,6 +4,62 @@
     "description": "粤语学习"
   },
   {
+    "link": "https://www.jiuwa.net/chengyu/jielong/",
+    "description": "成语接龙生成"
+  },
+  {
+    "link": "https://www.gaitubao.com/yinzhang/",
+    "description": "印章生成"
+  },
+  {
+    "link": "https://www.mazegenerator.net/",
+    "description": "迷宫生成"
+  },
+  {
+    "link": "https://works.yangerxiao.com/honeyed-words-generator/",
+    "description": "土味情话"
+  },
+  {
+    "link": "https://www.qmsjmfb.com/",
+    "description": "网名生成"
+  },
+  {
+    "link": "https://www.ageeye.cn/",
+    "description": "地图大全"
+  },
+  {
+    "link": "https://www.ear0.com/map",
+    "description": "声音地图"
+  },
+  {
+    "link": "https://www.allhistory.com/",
+    "description": "全历史"
+  },
+  {
+    "link": "https://bus.daibor.com/",
+    "description": "公交线路图"
+  },
+  {
+    "link": "http://www.zhiyunwenxian.cn/",
+    "description": "知云文献翻译"
+  },
+  {
+    "link": "https://translate.i18ns.com/",
+    "description": "多国翻译"
+  },
+  {
+    "link": "https://i18ns.com/",
+    "description": "国际化翻译"
+  },
+  {
+    "link": "https://www.deepl.com/zh/translator",
+    "description": "deepl翻译"
+  },
+  {
+    "link": "https://www.beijinghuadacidian.com/",
+    "description": "北京话词典"
+  },
+  {
     "link": "https://toonme.com/",
     "description": "卡通化"
   },
@@ -98,6 +154,10 @@
   {
     "link": "https://www.languageguide.org/",
     "description": "各国日常用语"
+  },
+  {
+    "link": "https://zh.forvo.com/",
+    "description": "世界语言发音"
   },
   {
     "link": "https://airportal.cn/",

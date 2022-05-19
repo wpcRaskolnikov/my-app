@@ -4,6 +4,58 @@
     "description": "pixbay"
   },
   {
+    "link": "https://yijiangaitu.com/",
+    "description": "一键改图"
+  },
+  {
+    "link": "https://www.iloveimg.com/zh-cn",
+    "description": "iloveimg"
+  },
+  {
+    "link": "https://www.logosc.cn/so/",
+    "description": "免费图片搜索"
+  },
+  {
+    "link": "https://cc0.cn/",
+    "description": "cc0"
+  },
+  {
+    "link": "https://www.freeimages.com/",
+    "description": "freeImages"
+  },
+  {
+    "link": "https://colorhub.me/",
+    "description": "colorhub"
+  },
+  {
+    "link": "https://www.hippopx.com/",
+    "description": "Hippopx"
+  },
+  {
+    "link": "https://www.pexels.com/",
+    "description": "pixel摄影"
+  },
+  {
+    "link": "https://www.waysoahc.xyz/",
+    "description": "unsplash"
+  },
+  {
+    "link": "https://www.mfpng.com/",
+    "description": "证照换底色"
+  },
+  {
+    "link": " https://fabdevgit.github.io/barchartrace/",
+    "description": "csv生成条形竞争图"
+  },
+  {
+    "link": "https://imagecyborg.com/",
+    "description": "批量下载网站图片"
+  },
+  {
+    "link": "https://we.dog/",
+    "description": "pron logo"
+  },
+  {
     "link": "http://waifu2x.udp.jp/",
     "description": "二次元图片放大"
   },
@@ -84,12 +136,48 @@
     "description": "链接去水印"
   },
   {
+    "link": "https://graph.readhub.cn/",
+    "description": "泥石流海报"
+  },
+  {
+    "link": "https://photokit.com/",
+    "description": "抠图"
+  },
+  {
+    "link": "https://www.gaoding.com/koutu",
+    "description": "搞定抠图"
+  },
+  {
+    "link": "https://aipix.net/",
+    "description": "去背景"
+  },
+  {
+    "link": "https://zh.clippingmagic.com/",
+    "description": "魔术般删除背景"
+  },
+  {
+    "link": "https://slazzer.com/",
+    "description": "抠图"
+  },
+  {
     "link": "https://ps.gaoding.com/",
     "description": "在线ps"
   },
   {
     "link": "https://www.photopea.com/",
     "description": "在线ps-en"
+  },
+  {
+    "link": "https://www.uupoop.com/",
+    "description": "在线图片编辑"
+  },
+  {
+    "link": "http://z.topurl.cn/",
+    "description": "艺术字九宫格"
+  },
+  {
+    "link": "https://photofunia.com/",
+    "description": "照片嵌入"
   },
   {
     "link": "https://photoshop.adobe.com/",
@@ -190,6 +278,10 @@
   {
     "link": "https://toonme.com/",
     "description": "卡通图片"
+  },
+  {
+    "link": "https://upuptoyou.com/",
+    "description": "举牌小人生成"
   },
   {
     "link": "https://vue-color-avatar.vercel.app/",

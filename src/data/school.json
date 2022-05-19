@@ -4,6 +4,18 @@
     "description": "浙江学习网"
   },
   {
+    "link": "https://cv.ftqq.com/",
+    "description": "冷熊简历"
+  },
+  {
+    "link": "https://new.polebrief.com/",
+    "description": "极简简历"
+  },
+  {
+    "link": "https://ac.scmor.com/",
+    "description": "谷歌学术镜像"
+  },
+  {
     "link": "https://sci-hub.st/",
     "description": "sci-hub"
   },
@@ -44,6 +56,22 @@
     "description": "日语语法学习"
   },
   {
+    "link": "https://videoai.perspectivar.com/",
+    "description": "ai生成笔记"
+  },
+  {
+    "link": "http://www.luxunmuseum.com.cn/cx/",
+    "description": "鲁迅语录"
+  },
+  {
+    "link": "https://www.fatsecret.cn/",
+    "description": "食物营养成分"
+  },
+  {
+    "link": "https://www.snapmail.cc/ ",
+    "description": "临时邮箱"
+  },
+  {
     "link": "https://suulnnka.github.io/BullshitGenerator/",
     "description": "狗屁文章生成器"
   },
@@ -68,6 +96,42 @@
     "description": "代码美化"
   },
   {
+    "link": "https://carbon.now.sh/",
+    "description": "代码美化carbon"
+  },
+  {
+    "link": "https://github.com/PyJun/Mooc_Downloader",
+    "description": "学无止境下载器"
+  },
+  {
+    "link": "https://github.com/xixixixixiao/mooc-downloader",
+    "description": "mooc下载器"
+  },
+  {
+    "link": "https://zh.wikihow.com/",
+    "description": "wiki生活指南"
+  },
+  {
+    "link": "https://www.calendarpedia.com/",
+    "description": "日历模板"
+  },
+  {
+    "link": "https://yayun.la/",
+    "description": "押韵助手"
+  },
+  {
+    "link": "https://www.cnh5.net/",
+    "description": "押韵精灵"
+  },
+  {
+    "link": "https://ai.binwang.me/",
+    "description": "对对子"
+  },
+  {
+    "link": "https://ptable.com/",
+    "description": "元素周期表"
+  },
+  {
     "link": "https://oeis.org/",
     "description": "数列生成"
   },
@@ -82,6 +146,14 @@
   {
     "link": "https://www.geogebra.org/",
     "description": "GeoGebra"
+  },
+  {
+    "link": "http://asciimath.org/",
+    "description": "ascii转math"
+  },
+  {
+    "link": "https://webdemo.myscript.com/",
+    "description": "手写数学公式"
   },
   {
     "link": "https://zs.symbolab.com/",

@@ -4,8 +4,36 @@
     "description": "计算机网络"
   },
   {
+    "link": "http://gen.lib.rus.ec/",
+    "description": "外文文献"
+  },
+  {
+    "link": "https://search.chongbuluo.com/",
+    "description": "虫部落搜索"
+  },
+  {
+    "link": "https://xmsoushu.com/",
+    "description": "熊猫搜索"
+  },
+  {
     "link": "https://lwebapp.com/zh/mobi-reader",
     "description": "在线mobi阅读器"
+  },
+  {
+    "link": "http://www.qcenglish.com/",
+    "description": "七彩英语"
+  },
+  {
+    "link": "http://www.banshujiang.cn/",
+    "description": "搬书匠"
+  },
+  {
+    "link": "https://www.kgbook.com/",
+    "description": "苦瓜书盘"
+  },
+  {
+    "link": "https://www.jiumodiary.com/",
+    "description": "鸠摩搜书"
   },
   {
     "link": "https://ebook.hep.com.cn/ebooks/index.html#/",
