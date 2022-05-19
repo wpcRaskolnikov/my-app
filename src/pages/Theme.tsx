@@ -1,16 +1,32 @@
 import React from 'react';
-import {Button, Box, ButtonGroup, Popper, ClickAwayListener,Container} from "@mui/material";
+import {Button, Box, ButtonGroup, Popper, ClickAwayListener, Container, Tabs, Tab} from "@mui/material";
 import ArrowDropDownIcon from "@mui/icons-material/ArrowDropDown";
+import {TabContext, TabPanel} from "@mui/lab";
 
-type LinksProps = {
+type TabsProps = {
+    tabs: { title: string; links: { link: string, description: string }[]; }[];
+};
+
+type AppProps = {
     links: { link: string, description: string }[];
+    title?: string;
+
 };
 
-type SplitProps = {
-    split: { title:string,links:{link: string, description: string}[]};
-};
+function TabGroupOfMe({tabs}: TabsProps) {
+    let index = 0;
+    return <>
+        {tabs.map(
+            ({links}) => {
+                return (
+                    <TabPanel value={(index++).toString()}>
+                        <ButtonGroupOfMe links={links}/>
+                    </TabPanel>);
+            })}
+    </>
+}
 
-export function Theme({links}: LinksProps) {
+export function Theme({links}: AppProps) {
     return (
         <Box
             sx={{
@@ -20,12 +36,12 @@ export function Theme({links}: LinksProps) {
                 gridTemplateColumns: 'repeat(6, 1fr)',
             }}
         >
-            <MyButtonGroup links={links}/>
+            <ButtonGroupOfMe links={links}/>
         </Box>
     )
 }
 
-export function MyButtonGroup({links}: LinksProps) {
+export function ButtonGroupOfMe({links}: AppProps) {
     return (
         <>
             {
@@ -41,7 +57,7 @@ export function MyButtonGroup({links}: LinksProps) {
     )
 }
 
-export function MySplitButton({split}: SplitProps) {
+export function SplitButtonOfMe({title}: AppProps, {links}: AppProps) {
     const anchorRef = React.useRef<HTMLDivElement>(null);
     const [open, setOpen] = React.useState(false);
     const handleToggle = () => {
@@ -59,16 +75,40 @@ export function MySplitButton({split}: SplitProps) {
     return (
         <Container sx={{p: 2, border: '1px solid grey',}}>
             <ButtonGroup variant="contained" ref={anchorRef}>
-                <Button onClick={handleToggle}>{split.title as string}<ArrowDropDownIcon/></Button>
+                <Button onClick={handleToggle}>{title as string}<ArrowDropDownIcon/></Button>
             </ButtonGroup>
             <Popper open={open} anchorEl={anchorRef.current}>
 
                 <ClickAwayListener onClickAway={handleClose}>
                     <ButtonGroup orientation="vertical">
-                        <MyButtonGroup links={split.links}/>
+                        <ButtonGroupOfMe links={links}/>
                     </ButtonGroup>
                 </ClickAwayListener>
             </Popper>
         </Container>
+    )
+}
+
+export function TabsOfMe({tabs}: TabsProps) {
+    let index = 0;
+    const [value, setValue] = React.useState('1');
+    const handleChange = (event: React.SyntheticEvent, newValue: string) => {
+        setValue(newValue);
+    };
+    return (
+        <TabContext value={value}>
+            <Box sx={{borderBottom: 1, borderColor: 'divider'}}>
+                <Tabs onChange={handleChange} centered>
+                    {
+                        tabs.map(
+                            ({title}) => {
+                                return (
+                                    <Tab label={title} value={(index++).toString()}/>);
+                            })
+                    }
+                </Tabs>
+            </Box>
+            <TabGroupOfMe tabs={tabs}/>
+        </TabContext>
     )
 }

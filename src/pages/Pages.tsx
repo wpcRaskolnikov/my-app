@@ -9,7 +9,7 @@ import pictureLinks from "../data/picture.json";
 import wallpaperLinks from "../data/wallpaper.json";
 import booksLinks from "../data/books.json";
 import schoolLinks from "../data/school.json";
-import pdfLinks from "../data/pdf.json";
+import pdfTabs from "../data/pdf.json";
 import javaLinks from "../data/java.json";
 import workbooksLinks from "../data/workbooks.json";
 import searchLinks from "../data/search.json";
@@ -21,12 +21,10 @@ import computerLinks from "../data/computer.json";
 import softwareLinks from "../data/software.json";
 
 import React from "react";
-import {Theme, MySplitButton, MyButtonGroup} from "./Theme";
+import {Theme, SplitButtonOfMe, ButtonGroupOfMe,TabsOfMe} from "./Theme";
 import {Box} from "@mui/material";
 
-const CryptographySplit = {
-    "title": "工具箱",
-    "links": [
+const CryptographySplit =  [
         {
             "link": "https://the-x.cn/",
             "description": "the X工具箱"
@@ -43,10 +41,10 @@ const CryptographySplit = {
             "link": "https://gchq.github.io/CyberChef/",
             "description": "密码学工具箱"
         },
-    ]
-};
+    ];
 
 export function NewsPage() {
+
     return (
         <div>
             <h1>News</h1>
@@ -74,8 +72,8 @@ export function CryptographyPage() {
                 rowGap: 1,
                 gridTemplateColumns: 'repeat(6, 1fr)',
             }}>
-                <MyButtonGroup links={cryptographyLinks}/>
-                <MySplitButton split={CryptographySplit}/>
+                <ButtonGroupOfMe links={cryptographyLinks}/>
+                <SplitButtonOfMe title="工具箱" links={CryptographySplit}/>
             </Box>
         </div>
     )
@@ -149,7 +147,7 @@ export function PDFPage() {
     return (
         <div>
             <h1>PDF</h1>
-            <Theme links={pdfLinks}/>
+            <TabsOfMe tabs={pdfTabs}/>
         </div>
     )
 }
