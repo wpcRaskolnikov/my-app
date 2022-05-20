@@ -1,218 +1,230 @@
 [
   {
-    "link": "https://www.zjooc.cn/",
-    "description": "浙江学习网"
+    "title": "数学",
+    "links": [
+      {
+        "link": "https://www.latexlive.com/",
+        "description": "数学公式在线编辑器"
+      },
+      {
+        "link": "https://mathcode.herokuapp.com/",
+        "description": "截图转数学公式"
+      },
+      {
+        "link": "https://math.microsoft.com/",
+        "description": "微软数学"
+      },
+      {
+        "link": "https://oeis.org/",
+        "description": "数列生成"
+      },
+      {
+        "link": "https://codeh.cn/old/utils/MathQuestionGen.html",
+        "description": "小学口算生成"
+      },
+      {
+        "link": "https://www.geogebra.org/",
+        "description": "GeoGebra"
+      },
+      {
+        "link": "http://asciimath.org/",
+        "description": "ascii转math"
+      },
+      {
+        "link": "https://webdemo.myscript.com/",
+        "description": "手写数学公式"
+      },
+      {
+        "link": "https://zs.symbolab.com/",
+        "description": "数学方程分步求解"
+      },
+      {
+        "link": "https://www.mathway.com/",
+        "description": "MathWay"
+      },
+      {
+        "link": "https://www.wolframalpha.com/",
+        "description": "wolframalpha"
+      },
+      {
+        "link": "https://zh.numberempire.com/",
+        "description": "数学帝国"
+      }
+    ]
   },
   {
-    "link": "http://www.chengyuji.cn/fenlei/",
-    "description": "成语大全"
+    "title": "语言",
+    "links": [
+      {
+        "link": "https://res.wokanxing.info/",
+        "description": "日语语法学习"
+      },
+      {
+        "link": "https://www.babelabc.com/",
+        "description": "美剧英语"
+      },
+      {
+        "link": "https://www.youzack.com/",
+        "description": "学英语"
+      },
+      {
+        "link": "https://zhenti.burningvocabulary.com/",
+        "description": "在线英语真题"
+      }
+    ]
   },
   {
-    "link": "https://www.latexlive.com/",
-    "description": "数学公式在线编辑器"
+    "title": "学校",
+    "links": [
+      {
+        "link": "https://www.zjooc.cn/",
+        "description": "浙江学习网"
+      },
+      {
+        "link": "https://hdu.fanya.chaoxing.com/",
+        "description": "泛雅平台"
+      },
+      {
+        "link": "https://newjw.hdu.edu.cn/",
+        "description": "杭电教务"
+      },
+      {
+        "link": "https://console.huaweicloud.com/",
+        "description": "华为云"
+      },
+      {
+        "link": "https://suulnnka.github.io/BullshitGenerator/",
+        "description": "狗屁文章生成器"
+      },
+      {
+        "link": "https://kaseidis.gitee.io/interesting_gadgets/marketing_generator/index.htm",
+        "description": "营销号生成器"
+      },
+      {
+        "link": "https://sojo.im/slscq/",
+        "description": "论文生成器"
+      },
+      {
+        "link": "https://m.diyifanwen.com/",
+        "description": "第一范文网"
+      },
+      {
+        "link": "https://fw.chazidian.com/",
+        "description": "范文网"
+      },
+      {
+        "link": "http://codeinword.com/",
+        "description": "代码美化"
+      },
+      {
+        "link": "https://carbon.now.sh/",
+        "description": "代码美化carbon"
+      },
+      {
+        "link": "https://github.com/PyJun/Mooc_Downloader",
+        "description": "学无止境下载器"
+      },
+      {
+        "link": "https://github.com/xixixixixiao/mooc-downloader",
+        "description": "mooc下载器"
+      }
+    ]
   },
   {
-    "link": "https://mathcode.herokuapp.com/",
-    "description": "截图转数学公式"
-  },
-  {
-    "link": "https://cv.ftqq.com/",
-    "description": "冷熊简历"
-  },
-  {
-    "link": "https://new.polebrief.com/",
-    "description": "极简简历"
-  },
-  {
-    "link": "https://ac.scmor.com/",
-    "description": "谷歌学术镜像"
-  },
-  {
-    "link": "https://sci-hub.st/",
-    "description": "sci-hub"
-  },
-  {
-    "link": "https://sci-hub.se/",
-    "description": "sci-hub"
-  },
-  {
-    "link": "https://hdu.fanya.chaoxing.com/",
-    "description": "泛雅平台"
-  },
-  {
-    "link": "https://newjw.hdu.edu.cn/",
-    "description": "杭电教务"
-  },
-  {
-    "link": "https://console.huaweicloud.com/",
-    "description": "华为云"
-  },
-  {
-    "link": "https://math.microsoft.com/",
-    "description": "微软数学"
-  },
-  {
-    "link": "https://www.51zxw.net/",
-    "description": "我要自学网"
-  },
-  {
-    "link": "https://ocw.mit.edu/",
-    "description": "OPEN MIT"
-  },
-  {
-    "link": "http://www1.baiten.cn/",
-    "description": "佰腾专利库"
-  },
-  {
-    "link": "https://res.wokanxing.info/",
-    "description": "日语语法学习"
-  },
-  {
-    "link": "https://videoai.perspectivar.com/",
-    "description": "ai生成笔记"
-  },
-  {
-    "link": "http://www.luxunmuseum.com.cn/cx/",
-    "description": "鲁迅语录"
-  },
-  {
-    "link": "https://www.fatsecret.cn/",
-    "description": "食物营养成分"
-  },
-  {
-    "link": "https://www.snapmail.cc/ ",
-    "description": "临时邮箱"
-  },
-  {
-    "link": "https://suulnnka.github.io/BullshitGenerator/",
-    "description": "狗屁文章生成器"
-  },
-  {
-    "link": "https://kaseidis.gitee.io/interesting_gadgets/marketing_generator/index.htm",
-    "description": "营销号生成器"
-  },
-  {
-    "link": "https://sojo.im/slscq/",
-    "description": "论文生成器"
-  },
-  {
-    "link": "https://m.diyifanwen.com/",
-    "description": "第一范文网"
-  },
-  {
-    "link": "https://fw.chazidian.com/",
-    "description": "范文网"
-  },
-  {
-    "link": "http://codeinword.com/",
-    "description": "代码美化"
-  },
-  {
-    "link": "https://carbon.now.sh/",
-    "description": "代码美化carbon"
-  },
-  {
-    "link": "https://github.com/PyJun/Mooc_Downloader",
-    "description": "学无止境下载器"
-  },
-  {
-    "link": "https://github.com/xixixixixiao/mooc-downloader",
-    "description": "mooc下载器"
-  },
-  {
-    "link": "https://zh.wikihow.com/",
-    "description": "wiki生活指南"
-  },
-  {
-    "link": "https://www.calendarpedia.com/",
-    "description": "日历模板"
-  },
-  {
-    "link": "https://yayun.la/",
-    "description": "押韵助手"
-  },
-  {
-    "link": "https://www.cnh5.net/",
-    "description": "押韵精灵"
-  },
-  {
-    "link": "https://ai.binwang.me/",
-    "description": "对对子"
-  },
-  {
-    "link": "https://ptable.com/",
-    "description": "元素周期表"
-  },
-  {
-    "link": "https://oeis.org/",
-    "description": "数列生成"
-  },
-  {
-    "link": "https://www.lishichelun.com/wheel",
-    "description": "历史车轮"
-  },
-  {
-    "link": "https://codeh.cn/old/utils/MathQuestionGen.html",
-    "description": "小学口算生成"
-  },
-  {
-    "link": "https://www.geogebra.org/",
-    "description": "GeoGebra"
-  },
-  {
-    "link": "http://asciimath.org/",
-    "description": "ascii转math"
-  },
-  {
-    "link": "https://webdemo.myscript.com/",
-    "description": "手写数学公式"
-  },
-  {
-    "link": "https://zs.symbolab.com/",
-    "description": "数学方程分步求解"
-  },
-  {
-    "link": "https://www.mathway.com/",
-    "description": "MathWay"
-  },
-  {
-    "link": "https://www.wolframalpha.com/",
-    "description": "wolframalpha"
-  },
-  {
-    "link": "https://zh.numberempire.com/",
-    "description": "数学帝国"
-  },
-  {
-    "link": "https://app.diagrams.net/",
-    "description": "流程图制作"
-  },
-  {
-    "link": "https://zhenti.burningvocabulary.com/",
-    "description": "在线英语真题"
-  },
-  {
-    "link": "https://examcoo.com/",
-    "description": "考试库"
-  },
-  {
-    "link": "https://www.babelabc.com/",
-    "description": "美剧英语"
-  },
-  {
-    "link": "https://www.youzack.com/",
-    "description": "学英语"
-  },
-  {
-    "link": "https://zhongkai.github.io/nhr/",
-    "description": "互联网黑话"
-  },
-  {
-    "link": "https://putianxi.github.io/",
-    "description": "莆田医院地图"
-  },
-  {
-    "link": "https://gitmind.cn/",
-    "description": "思维导图"
+    "title": "其他",
+    "links": [
+      {
+        "link": "http://www.chengyuji.cn/fenlei/",
+        "description": "成语大全"
+      },
+      {
+        "link": "https://cv.ftqq.com/",
+        "description": "冷熊简历"
+      },
+      {
+        "link": "https://new.polebrief.com/",
+        "description": "极简简历"
+      },
+      {
+        "link": "https://ac.scmor.com/",
+        "description": "谷歌学术镜像"
+      },
+      {
+        "link": "https://sci-hub.st/",
+        "description": "sci-hub"
+      },
+      {
+        "link": "https://sci-hub.se/",
+        "description": "sci-hub"
+      },
+      {
+        "link": "https://www.51zxw.net/",
+        "description": "我要自学网"
+      },
+      {
+        "link": "https://ocw.mit.edu/",
+        "description": "OPEN MIT"
+      },
+      {
+        "link": "http://www1.baiten.cn/",
+        "description": "佰腾专利库"
+      },
+      {
+        "link": "https://videoai.perspectivar.com/",
+        "description": "ai生成笔记"
+      },
+      {
+        "link": "http://www.luxunmuseum.com.cn/cx/",
+        "description": "鲁迅语录"
+      },
+      {
+        "link": "https://www.fatsecret.cn/",
+        "description": "食物营养成分"
+      },
+      {
+        "link": "https://www.snapmail.cc/ ",
+        "description": "临时邮箱"
+      },
+      {
+        "link": "https://www.calendarpedia.com/",
+        "description": "日历模板"
+      },
+      {
+        "link": "https://yayun.la/",
+        "description": "押韵助手"
+      },
+      {
+        "link": "https://www.cnh5.net/",
+        "description": "押韵精灵"
+      },
+      {
+        "link": "https://ai.binwang.me/",
+        "description": "对对子"
+      },
+      {
+        "link": "https://ptable.com/",
+        "description": "元素周期表"
+      },
+      {
+        "link": "https://www.lishichelun.com/wheel",
+        "description": "历史车轮"
+      },
+      {
+        "link": "https://app.diagrams.net/",
+        "description": "流程图制作"
+      },
+      {
+        "link": "https://examcoo.com/",
+        "description": "考试库"
+      },
+      {
+        "link": "https://zhongkai.github.io/nhr/",
+        "description": "互联网黑话"
+      },
+      {
+        "link": "https://gitmind.cn/",
+        "description": "思维导图"
+      }
+    ]
   }
 ]

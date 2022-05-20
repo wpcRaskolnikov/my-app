@@ -40,6 +40,22 @@
     "title": "工具",
     "links": [
       {
+        "link": "https://airportal.cn/",
+        "description": "文件传输"
+      },
+      {
+        "link": "https://cv.yi2a.com/",
+        "description": "云剪切板"
+      },
+      {
+        "link": "https://cowtransfer.com/",
+        "description": "奶牛快传"
+      },
+      {
+        "link": "https://iknowwhatyoudownload.com/",
+        "description": "通过ip查找下载过的种子"
+      },
+      {
         "link": "https://zws.im/",
         "description": "短网址视觉欺骗"
       },
@@ -279,6 +295,18 @@
     "title": "文档",
     "links": [
       {
+        "link": "https://docs.xilinx.com/",
+        "description": "xilinx文档"
+      },
+      {
+        "link": "https://www.php.net/manual/",
+        "description": "php手册"
+      },
+      {
+        "link": "https://dev.mysql.com/doc/refman/5.7/en/",
+        "description": "MYSQL5.7手册"
+      },
+      {
         "link": "https://mui.com/",
         "description": "mui"
       },
@@ -320,6 +348,14 @@
     "title": "历史与现状",
     "links": [
       {
+        "link": "https://www.mobilephonemuseum.com/catalogue/",
+        "description": "手机博物馆"
+      },
+      {
+        "link": "https://www.conservethesound.de/",
+        "description": "留声机博物馆"
+      },
+      {
         "link": "https://killedbygoogle.com/",
         "description": "谷歌公墓"
       },
@@ -338,6 +374,92 @@
       {
         "link": "https://www.itjuzi.com/deathCompan/",
         "description": "it死亡公司"
+      }
+    ]
+  },
+  {
+    "title": "web",
+    "links": [
+      {
+        "link": "https://validator.w3.org/",
+        "description": "html验证"
+      },
+      {
+        "link": "https://nipponcolors.com/",
+        "description": "日本传统颜色"
+      },
+      {
+        "link": "https://www.color-hex.com/",
+        "description": "十六进制颜色"
+      },
+      {
+        "link": "https://www.webfx.com/web-design/color-picker/1F85DE/",
+        "description": "web颜色"
+      },
+      {
+        "link": "https://babeljs.io/",
+        "description": "Babel"
+      },
+      {
+        "link": "https://github.com/haixiangyan/make-wheels",
+        "description": "npm造轮子"
+      },
+      {
+        "link": "https://www.kinh.cc/",
+        "description": "IP工具箱"
+      },
+      {
+        "link": "https://kangax.github.io/compat-table/esnext/",
+        "description": "next ES"
+      },
+      {
+        "link": "https://www.similarsitesearch.com/",
+        "description": "查找相似网站"
+      },
+      {
+        "link": "http://ip111.cn",
+        "description": "ip地址查询"
+      }
+    ]
+  },
+  {
+    "title": "搜索",
+    "links": [
+      {
+        "link": "https://g.luciaz.me/",
+        "description": "心灵之约"
+      },
+      {
+        "link": "https://idesign.qq.com/",
+        "description": "设计导航"
+      },
+      {
+        "link": "https://gobaidugle.com/",
+        "description": "聚合搜索"
+      },
+      {
+        "link": "https://www.chinaso.com/",
+        "description": "中国搜索"
+      },
+      {
+        "link": "https://goobe.io/",
+        "description": "程序员搜索"
+      },
+      {
+        "link": "https://seadesktopsearch.com/",
+        "description": "归海数据"
+      },
+      {
+        "link": "https://searx.space/",
+        "description": "SearX"
+      },
+      {
+        "link": "https://hyperbeam.com ",
+        "description": "hyperbeam"
+      },
+      {
+        "link": "https://magi.com/",
+        "description": "magi"
       }
     ]
   }

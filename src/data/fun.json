@@ -1,190 +1,211 @@
 [
   {
-    "link": "https://m.jrj.com.cn/hq/bigtree",
-    "description": "大盘云图-股票"
+    "title": "模拟",
+    "links": [
+      {
+        "link": "https://geekprank.com/",
+        "description": "win xp"
+      },
+      {
+        "link": "https://macos-web.app/",
+        "description": "macOS"
+      },
+      {
+        "link": "https://winxp.vercel.app/",
+        "description": "windows xp"
+      },
+      {
+        "link": "https://www.xiwnn.com/",
+        "description": "在线钢琴"
+      },
+      {
+        "link": "http://tool.mkblog.cn/durms/",
+        "description": "在线架子鼓"
+      },
+      {
+        "link": "https://ac.yunyoujun.cn/",
+        "description": "空调"
+      },
+      {
+        "link": "https://fan.elpsy.cn/",
+        "description": "风扇"
+      },
+      {
+        "link": "https://oreo.ddiu.me/",
+        "description": "奥利奥"
+      }
+    ]
   },
   {
-    "link": "https://uahh.syouzyo.org/fyzhq/",
-    "description": "中文发音转外语"
+    "title": "生活",
+    "links": [
+      {
+        "link": "https://zh.wikihow.com/",
+        "description": "wiki生活指南"
+      },
+      {
+        "link": "https://passer-by.com/relationship/",
+        "description": "中国亲戚转换器"
+      },
+      {
+        "link": "https://www.zwcsm.com/",
+        "description": "今天吃什么"
+      },
+      {
+        "link": "https://sushengbuhuo.gitee.io/love/",
+        "description": "祈求女朋友"
+      },
+      {
+        "link": "https://www.arealme.com/",
+        "description": "趣味测试"
+      },
+      {
+        "link": "https://www.foodwake.com/",
+        "description": "唤醒食物"
+      },
+      {
+        "link": "https://ask.nocode.com/",
+        "description": "就诊问医"
+      },
+      {
+        "link": "http://xiaosang.net/gushi_namer/",
+        "description": "古诗文起人名"
+      },
+      {
+        "link": "https://www.qmsjmfb.com/",
+        "description": "网名生成"
+      },
+      {
+        "link": "https://zh.wikihow.com/",
+        "description": "生活指南"
+      },
+      {
+        "link": "https://www.arealme.com/chinese-vocabulary-size-test/cn/",
+        "description": "测试中文词汇量"
+      },
+      {
+        "link": "https://putianxi.github.io/",
+        "description": "莆田医院地图"
+      }
+    ]
   },
   {
-    "link": "https://cobysy.github.io/shodo/",
-    "description": "书法练习"
+    "title": "语言",
+    "links": [
+      {
+        "link": "https://jikipedia.com/",
+        "description": "小鸡词典"
+      },
+      {
+        "link": "https://versailles.deno.js.cn/",
+        "description": "凡尔赛语录"
+      },
+      {
+        "link": "http://yduanzi.com/",
+        "description": "云段子"
+      },
+      {
+        "link": "https://we.dog/",
+        "description": "舔狗日记"
+      },
+      {
+        "link": "https://lovelive.tools/",
+        "description": "渣男说话艺术"
+      },
+
+
+      {
+        "link": "http://www.iseecs.com/",
+        "description": "明星缩写"
+      },
+      {
+        "link": "https://works.yangerxiao.com/honeyed-words-generator/",
+        "description": "土味情话"
+      }
+    ]
   },
   {
-    "link": "https://www.templatemaker.nl/zh-cn/",
-    "description": "纸盒制作"
+    "title": "语音",
+    "links": [
+      {
+        "link": "https://recpage.applinzi.com/",
+        "description": "网页录音"
+      },
+      {
+        "link": "https://uahh.syouzyo.org/fyzhq/",
+        "description": "中文发音转外语"
+      },
+      {
+        "link": "https://cn.voicedic.com/",
+        "description": "方言发音"
+      },
+      {
+        "link": "https://www.beijinghuadacidian.com/",
+        "description": "北京话词典"
+      },
+      {
+        "link": "https://web.xiangyin.mobi/",
+        "description": "乡音"
+      },
+      {
+        "link": "https://www.fyan8.com/",
+        "description": "粤语学习"
+      }
+    ]
   },
   {
-    "link": "https://passer-by.com/relationship/",
-    "description": "中国亲戚转换器"
+    "title": "文化",
+    "links": [
+      {
+        "link": "http://jiuge.thunlp.org/",
+        "description": "清华九歌写诗"
+      },
+      {
+        "link": "https://cobysy.github.io/shodo/",
+        "description": "书法练习"
+      },
+      {
+        "link": "https://buhuibaidu.me/",
+        "description": "伸手党1"
+      },
+      {
+        "link": "https://lmbtfy.cn/",
+        "description": "伸手党2"
+      }
+    ]
   },
   {
-    "link": "https://lovelive.tools/",
-    "description": "渣男说话艺术"
-  },
-  {
-    "link": "https://buhuibaidu.me/",
-    "description": "伸手党1"
-  },
-  {
-    "link": "https://lmbtfy.cn/",
-    "description": "伸手党2"
-  },
-  {
-    "link": "https://www.weiboreach.com/",
-    "description": "微博传播分析"
-  },
-  {
-    "link": "https://tool.mingdawoo.com/",
-    "description": "相邻词汇查找"
-  },
-  {
-    "link": "https://recpage.applinzi.com/",
-    "description": "网页录音"
-  },
-  {
-    "link": "http://jiuge.thunlp.org/",
-    "description": "清华九歌写诗"
-  },
-  {
-    "link": "http://www.iseecs.com/",
-    "description": "明星缩写"
-  },
-  {
-    "link": "https://www.zwcsm.com/",
-    "description": "今天吃什么"
-  },
-  {
-    "link": "https://www.foodwake.com/",
-    "description": "唤醒食物"
-  },
-  {
-    "link": "https://ask.nocode.com/",
-    "description": "就诊问医"
-  },
-  {
-    "link": "https://iknowwhatyoudownload.com/",
-    "description": "通过ip查找下载过的种子"
-  },
-  {
-    "link": "https://zh.wikihow.com/",
-    "description": "生活指南"
-  },
-  {
-    "link": "https://www.arealme.com/",
-    "description": "趣味测试"
-  },
-  {
-    "link": "https://emojidaquan.com/ ",
-    "description": "emoji大全"
-  },
-  {
-    "link": "https://we.dog/",
-    "description": "舔狗日记"
-  },
-  {
-    "link": "https://quickdraw.withgoogle.com/",
-    "description": "你画我猜"
-  },
-  {
-    "link": "https://oreo.ddiu.me/",
-    "description": "奥利奥生成"
-  },
-  {
-    "link": "https://www.arealme.com/chinese-vocabulary-size-test/cn/",
-    "description": "测试中文词汇量"
-  },
-  {
-    "link": "http://xiaosang.net/gushi_namer/",
-    "description": "古诗文起人名"
-  },
-  {
-    "link": "https://wantwords.net/",
-    "description": "反向词典"
-  },
-  {
-    "link": "https://cv.yi2a.com/",
-    "description": "云剪切板"
-  },
-  {
-    "link": "http://www.xysudu.com/",
-    "description": "b站名著解读"
-  },
-  {
-    "link": "https://www.weibotop.cn/",
-    "description": "热搜时光机"
-  },
-  {
-    "link": "https://weibo.zhaoyizhe.com/",
-    "description": "微博热搜"
-  },
-  {
-    "link": "https://trends.zhiweidata.com/",
-    "description": "知乎热搜"
-  },
-  {
-    "link": "https://rssfeed.today/weibo/",
-    "description": "微博转RSS"
-  },
-  {
-    "link": "https://rubiks-cube-solver.com/",
-    "description": "魔方求解"
-  },
-  {
-    "link": "https://cn.voicedic.com/",
-    "description": "方言发音"
-  },
-  {
-    "link": "https://web.xiangyin.mobi/",
-    "description": "乡音"
-  },
-  {
-    "link": "https://versailles.deno.js.cn/",
-    "description": "凡尔赛语录"
-  },
-  {
-    "link": "https://www.xiwnn.com/",
-    "description": "在线钢琴"
-  },
-  {
-    "link": "http://tool.mkblog.cn/durms/",
-    "description": "在线架子鼓"
-  },
-  {
-    "link": "https://ac.yunyoujun.cn/",
-    "description": "假的空调"
-  },
-  {
-    "link": "https://fan.elpsy.cn/",
-    "description": "假的风扇"
-  },
-  {
-    "link": "https://winxp.vercel.app/",
-    "description": "windows xp"
-  },
-  {
-    "link": "https://geekprank.com/",
-    "description": "win xp"
-  },
-  {
-    "link": "https://macos-web.app/",
-    "description": "macOS"
-  },
-  {
-    "link": "https://fan.elpsy.cn/",
-    "description": "假的风扇"
-  },
-  {
-    "link": "http://yduanzi.com/",
-    "description": "云段子"
-  },
-  {
-    "link": "https://www.pixelsquid.com/",
-    "description": "人类时钟"
-  },
-  {
-    "link": "https://sushengbuhuo.gitee.io/love/",
-    "description": "祈求女朋友"
+    "title": "其他",
+    "links": [
+      {
+        "link": "https://www.templatemaker.nl/zh-cn/",
+        "description": "纸盒制作"
+      },
+      {
+        "link": "https://www.weiboreach.com/",
+        "description": "微博传播分析"
+      },
+      {
+        "link": "https://tool.mingdawoo.com/",
+        "description": "相邻词汇查找"
+      },
+
+      {
+        "link": "https://quickdraw.withgoogle.com/",
+        "description": "你画我猜"
+      },
+      {
+        "link": "https://wantwords.net/",
+        "description": "反向词典"
+      },
+      {
+        "link": "https://rssfeed.today/weibo/",
+        "description": "微博转RSS"
+      },
+      {
+        "link": "https://www.pixelsquid.com/",
+        "description": "人类时钟"
+      }
+    ]
   }
 ]

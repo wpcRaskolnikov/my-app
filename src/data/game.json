@@ -102,6 +102,10 @@
         "description": "在线魔方"
       },
       {
+        "link": "https://rubiks-cube-solver.com/",
+        "description": "魔方求解"
+      },
+      {
         "link": "https://www.nytimes.com/wordle/",
         "description": "wordle"
       },

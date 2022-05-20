@@ -1,16 +1,15 @@
-import toolsLinks from "../data/tools.json";
-import webLinks from "../data/web.json";
 import cryptographyLinks from "../data/cryptography.json";
-import movieLinks from "../data/movie.json";
-import newsLinks from "../data/news.json";
 import pictureLinks from "../data/picture.json";
-import schoolLinks from "../data/school.json";
-import pdfTabs from "../data/pdf.json";
-import searchLinks from "../data/search.json";
-import funLinks from "../data/fun.json";
-import resourceTabs from "../data/resource.json";
-import gameTabs from "../data/game.json";
+
 import computerTabs from "../data/computer.json";
+import funTabs from "../data/fun.json";
+import gameTabs from "../data/game.json";
+import newsTabs from "../data/news.json";
+import pdfTabs from "../data/pdf.json";
+import resourceTabs from "../data/resource.json";
+import schoolTabs from "../data/school.json";
+import toolsTabs from "../data/tools.json";
+
 
 import React from "react";
 import {Theme, SplitButtonOfMe, ButtonGroupOfMe, TabsOfMe} from "./Theme";
@@ -40,16 +39,7 @@ export function NewsPage() {
     return (
         <div>
             <h1>News</h1>
-            <Theme links={newsLinks}/>
-        </div>
-    )
-}
-
-export function WebPage() {
-    return (
-        <div>
-            <h1>Web</h1>
-            <Theme links={webLinks}/>
+            <TabsOfMe tabs={newsTabs}/>
         </div>
     )
 }
@@ -71,20 +61,11 @@ export function CryptographyPage() {
     )
 }
 
-export function MoviePage() {
-    return (
-        <div>
-            <h1>Movie</h1>
-            <Theme links={movieLinks}/>
-        </div>
-    )
-}
-
 export function ToolsPage() {
     return (
         <div>
             <h1>Tools</h1>
-            <Theme links={toolsLinks}/>
+            <TabsOfMe tabs={toolsTabs}/>
         </div>
     )
 }
@@ -102,7 +83,7 @@ export function SchoolPage() {
     return (
         <div>
             <h1>School</h1>
-            <Theme links={schoolLinks}/>
+            <TabsOfMe tabs={schoolTabs}/>
         </div>
     )
 }
@@ -143,20 +124,11 @@ export function ComputerPage() {
     )
 }
 
-export function SearchPage() {
-    return (
-        <div>
-            <h1>Search</h1>
-            <Theme links={searchLinks}/>
-        </div>
-    )
-}
-
 export function FunPage() {
     return (
         <div>
             <h1>Fun</h1>
-            <Theme links={funLinks}/>
+            <TabsOfMe tabs={funTabs}/>
         </div>
     )
 }

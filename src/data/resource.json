@@ -142,6 +142,10 @@
       {
         "link": "http://klib.me/weread/hot/",
         "description": "微信读书排行榜"
+      },
+      {
+        "link": "http://www.xysudu.com/",
+        "description": "b站名著解读"
       }
     ]
   },
@@ -355,6 +359,64 @@
       {
         "link": "https://colorfu.art/",
         "description": "壁纸生成"
+      }
+    ]
+  },
+  {
+    "title": "网盘",
+    "links": [
+      {
+        "link": "https://www.chaonengsou.com/",
+        "description": "超能搜"
+      },
+      {
+        "link": "https://www.niceso.fun/",
+        "description": "奈斯搜索"
+      },
+      {
+        "link": "https://www.upyunso.com/",
+        "description": "up云搜"
+      },
+      {
+        "link": "https://www.juzipansou.com/",
+        "description": "橘子盘搜"
+      },
+      {
+        "link": "https://www.alipansou.com/",
+        "description": "阿里云搜"
+      },
+      {
+        "link": "https://yun.hei521.cn/",
+        "description": "天翼小站"
+      },
+      {
+        "link": "https://189.ly93.cc/",
+        "description": "天翼云盘解析"
+      },
+      {
+        "link": "https://www.yunpanziyuan.com/",
+        "description": "云盘资源"
+      },
+      {
+        "link": "https://www.xuebapan.com/",
+        "description": "学霸搜"
+      },
+      {
+        "link": "https://v3.ujuso.com/",
+        "description": "优聚搜"
+      }
+    ]
+  },
+  {
+    "title": "其他",
+    "links": [
+      {
+        "link": "https://www.fuhaoku.net/",
+        "description": "符号库"
+      },
+      {
+        "link": "https://emojidaquan.com/ ",
+        "description": "emoji大全"
       }
     ]
   }
