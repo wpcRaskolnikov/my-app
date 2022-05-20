@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://ddrk.me/",
-    "description": "低端影视"
-  },
-  {
     "link": "https://join-screenshots.zhanghai.me/",
     "description": "截图拼接"
   },
@@ -52,10 +48,6 @@
     "description": "1912海报库"
   },
   {
-    "link": "https://www.dianyinggou.com/",
-    "description": "电影狗"
-  },
-  {
     "link": "https://douyabot.com/",
     "description": "豆瓣走势"
   },
@@ -78,45 +70,5 @@
   {
     "link": "https://www.cikeee.com/",
     "description": "电影日历"
-  },
-  {
-    "link": "https://www.1905.com/",
-    "description": "1905电影网"
-  },
-  {
-    "link": "https://yyds.fans/",
-    "description": "yyds影视"
-  },
-  {
-    "link": "http://www.verycd.com/",
-    "description": "VeryCD"
-  },
-  {
-    "link": "https://tv.cctv.com/",
-    "description": "CCTV"
-  },
-  {
-    "link": "https://51souju.com/",
-    "description": "51搜剧"
-  },
-  {
-    "link": "https://dsxys.com/",
-    "description": "大师兄影视"
-  },
-  {
-    "link": "https://www.nfyingshi.com/",
-    "description": "奈菲影视"
-  },
-  {
-    "link": "https://www.dianyinggou.com/",
-    "description": "电影狗"
-  },
-  {
-    "link": "https://www.pianku.la/",
-    "description": "片库"
-  },
-  {
-    "link": "https://www.sarhotline.org/",
-    "description": "努努影院"
   }
 ]

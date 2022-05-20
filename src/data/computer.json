@@ -1,162 +1,344 @@
 [
   {
-    "link": "https://stackoverflow.com/",
-    "description": "stackoverflow"
+    "title": "博客",
+    "links": [
+      {
+        "link": "https://www.ruanyifeng.com",
+        "description": "阮一峰博客"
+      },
+      {
+        "link": "https://coolshell.cn/",
+        "description": "陈皓博客"
+      },
+      {
+        "link": "https://www.cnblogs.com/vamei/",
+        "description": "vamei’s blog"
+      },
+      {
+        "link": "http://paulgraham.com/",
+        "description": "Paul Graham"
+      },
+      {
+        "link": "https://www.joelonsoftware.com/",
+        "description": "joel on software"
+      },
+      {
+        "link": "https://docs.microsoft.com/en-us/archive/blogs/",
+        "description": "MSDN"
+      },
+      {
+        "link": "https://www.kalzumeus.com/\n",
+        "description": "kalzumenu's blog"
+      },
+      {
+        "link": "https://thewebdev.info/",
+        "description": "John Au-Yeung’s blog"
+      }
+    ]
   },
   {
-    "link": "https://jiemahao.com/",
-    "description": "临时电话号码"
+    "title": "工具",
+    "links": [
+      {
+        "link": "https://zws.im/",
+        "description": "短网址视觉欺骗"
+      },
+      {
+        "link": "https://www.sina.lt/",
+        "description": "短网址"
+      },
+      {
+        "link": "https://web.woobx.cn/app/short-link",
+        "description": "短链接工具"
+      },
+      {
+        "link": "https://jiemahao.com/",
+        "description": "临时电话号码"
+      },
+      {
+        "link": "https://sourceforge.net/",
+        "description": "SourceForge"
+      },
+      {
+        "link": "https://www.mydrivers.com/zhuanti/tianti/gpum/index.html",
+        "description": "显卡性能图"
+      },
+      {
+        "link": "https://next.itellyou.cn/",
+        "description": "操作系统镜像"
+      }
+    ]
   },
   {
-    "link": "https://zws.im/",
-    "description": "短网址视觉欺骗"
+    "title": "论坛",
+    "links": [
+      {
+        "link": "https://stackoverflow.com/",
+        "description": "stackoverflow"
+      },
+      {
+        "link": "https://sspai.com/",
+        "description": "少数派"
+      },
+      {
+        "link": "https://www.infoq.cn/",
+        "description": "infoQ"
+      },
+      {
+        "link": "https://ithelp.ithome.com.tw/",
+        "description": "IT邦帮忙"
+      }
+    ]
   },
   {
-    "link": "https://www.sina.lt/",
-    "description": "短网址"
+    "title": "教程",
+    "links": [
+      {
+        "link": "https://www.w3schools.com/",
+        "description": "w3schools"
+      },
+      {
+        "link": "https://developer.mozilla.org/",
+        "description": "MDN"
+      },
+      {
+        "link": "https://vuepress.mirror.docker-practice.com/",
+        "description": "Docker从入门到精通"
+      },
+      {
+        "link": "https://haujet.gitee.io/shortcutmapper_chinese/",
+        "description": "键盘映射"
+      },
+      {
+        "link": "https://oi-wiki.org/",
+        "description": "算法维基"
+      },
+      {
+        "link": "https://www.yiibai.com/",
+        "description": "易百教程"
+      },
+      {
+        "link": "https://learnxinyminutes.com/",
+        "description": "learn x in y time"
+      }
+    ]
   },
   {
-    "link": "https://web.woobx.cn/app/short-link",
-    "description": "短链接工具"
+    "title": "练习",
+    "links": [
+      {
+        "link": "https://regex101.com/",
+        "description": "正则练习"
+      },
+      {
+        "link": "https://regexr.com/",
+        "description": "RegExr"
+      },
+      {
+        "link": "https://adworld.xctf.org.cn/",
+        "description": "攻防世界"
+      },
+      {
+        "link": "https://ctf.bugku.com/",
+        "description": "BugKu"
+      },
+      {
+        "link": "https://www.nowcoder.com/",
+        "description": "牛客"
+      },
+      {
+        "link": "https://pintia.cn/",
+        "description": "PTA"
+      },
+      {
+        "link": "https://leetcode.cn/",
+        "description": "力扣"
+      },
+      {
+        "link": "https://www.luogu.com.cn/",
+        "description": "洛谷"
+      },
+      {
+        "link": "https://acm.hdu.edu.cn/",
+        "description": "杭电oj"
+      }
+    ]
   },
   {
-    "link": "https://sspai.com/",
-    "description": "少数派"
+    "title": "新闻",
+    "links": [
+      {
+        "link": "https://www.questmobile.com.cn/",
+        "description": "Quest Mobile"
+      },
+      {
+        "link": "https://www.cnnic.net.cn/",
+        "description": "CNNIC"
+      },
+      {
+        "link": "https://www.solidot.org/",
+        "description": "奇客"
+      },
+      {
+        "link": "https://news.ycombinator.com/",
+        "description": "hacker news"
+      }
+    ]
   },
   {
-    "link": "https://233heji.com/",
-    "description": "合集网"
+    "title": "软件",
+    "links": [
+      {
+        "link": "https://www.iplaysoft.com/",
+        "description": "异次元软件"
+      },
+      {
+        "link": "https://www.fosshub.com/",
+        "description": "软件下载"
+      },
+      {
+        "link": "https://www.onlinedown.net/",
+        "description": "华军软件园"
+      },
+      {
+        "link": "https://alternativeto.net/",
+        "description": "查找同类软件"
+      },
+      {
+        "link": "https://jpsmile.com/davinci-resolve-studio-17",
+        "description": "Davinci"
+      },
+      {
+        "link": "https://jpsmile.com/xmind-2021/",
+        "description": "xmind"
+      }
+    ]
   },
   {
-    "link": "https://wanneng.run/",
-    "description": "万能工具"
+    "title": "Linux",
+    "links": [
+      {
+        "link": "https://deepinout.com/linux-kernel-api",
+        "description": "Linux内核api"
+      },
+      {
+        "link": "https://linux.cn/",
+        "description": "Linux中国"
+      },
+      {
+        "link": "https://elixir.bootlin.com/",
+        "description": "Linux源码"
+      },
+      {
+        "link": "https://git.kernel.org/",
+        "description": "Linux kernel"
+      },
+      {
+        "link": "https://blog.csdn.net/jiuguaqiao6494/article/details/119482013",
+        "description": "errno定义"
+      },
+      {
+        "link": "https://www.cnblogs.com/keatonlao/p/12983158.html",
+        "description": "rime使用说明"
+      },
+      {
+        "link": "http://linasm.sourceforge.net/docs/",
+        "description": "Linux系统调用"
+      },
+      {
+        "link": "https://www.vimgolf.com/",
+        "description": "vim挑战"
+      },
+      {
+        "link": "https://www.linuxprobe.com/",
+        "description": "刘遄博客"
+      },
+      {
+        "link": "https://opensource.com/article/18/8/what-how-makefile",
+        "description": "Makefile基础"
+      },
+      {
+        "link": "https://linuxtools-rst.readthedocs.io/",
+        "description": "Linux Tools Quick Tutorial"
+      },
+      {
+        "link": "https://hackmd.io/@sysprog/SySTMXPvl",
+        "description": "Makefile语法"
+      },
+      {
+        "link": "https://docs.microsoft.com/zh-cn/cpp/linux/",
+        "description": "visual studio手册"
+      },
+      {
+        "link": "https://seisman.github.io/how-to-write-makefile/",
+        "description": "makefile"
+      }
+    ]
   },
   {
-    "link": "https://www.bookmarkearth.com/",
-    "description": "书签分享"
+    "title": "文档",
+    "links": [
+      {
+        "link": "https://mui.com/",
+        "description": "mui"
+      },
+      {
+        "link": "https://react.docschina.org/",
+        "description": "react文档"
+      },
+      {
+        "link": "https://markdown.com.cn/",
+        "description": "markdown手册"
+      },
+      {
+        "link": "https://docs.docker.com/",
+        "description": "Docker文档"
+      },
+      {
+        "link": "https://hub.docker.com/",
+        "description": "Docker仓库"
+      },
+      {
+        "link": "https://docs.oracle.com/en/java/javase/17/docs/",
+        "description": "Java api"
+      },
+      {
+        "link": "https://openjfx.io/javadoc/17/",
+        "description": "javaFX api"
+      },
+      {
+        "link": "https://www.jetbrains.com/help/idea/",
+        "description": "idea help"
+      },
+      {
+        "link": "https://docs.oracle.com/javase/9/tools/jdeprscan.htm",
+        "description": "jdeprscan"
+      }
+    ]
   },
   {
-    "link": "https://killedbygoogle.com/",
-    "description": "谷歌公墓"
-  },
-  {
-    "link": "https://www.levels.fyi/",
-    "description": "互联网薪资（国外）"
-  },
-  {
-    "link": "https://salaryfly.com/",
-    "description": "互联网薪资（国内）"
-  },
-  {
-    "link": "https://regex101.com/",
-    "description": "正则练习"
-  },
-  {
-    "link": "https://regexr.com/",
-    "description": "正则学习"
-  },
-  {
-    "link": "http://qingwendang.com/",
-    "description": "在线u盘"
-  },
-  {
-    "link": "https://www.latexlive.com/",
-    "description": "数学公式在线编辑器"
-  },
-  {
-    "link": "https://mathcode.herokuapp.com/",
-    "description": "截图转数学公式"
-  },
-  {
-    "link": "https://sourceforge.net/",
-    "description": "开源软件"
-  },
-  {
-    "link": "https://www.cnnic.net.cn/",
-    "description": "CNNIC"
-  },
-  {
-    "link": "https://oi-wiki.org/",
-    "description": "算法维基"
-  },
-  {
-    "link": "https://haujet.gitee.io/shortcutmapper_chinese/",
-    "description": "键盘映射"
-  },
-  {
-    "link": "https://learnxinyminutes.com/",
-    "description": "learn x in y time"
-  },
-  {
-    "link": "https://ithelp.ithome.com.tw/",
-    "description": "IT邦帮忙"
-  },
-  {
-    "link": "https://www.yiibai.com/",
-    "description": "易百教程"
-  },
-  {
-    "link": "https://www.questmobile.com.cn/",
-    "description": "Quest Mobile"
-  },
-  {
-    "link": "https://www.solidot.org/",
-    "description": "奇客"
-  },
-  {
-    "link": "https://www.infoq.cn/",
-    "description": "infoQ"
-  },
-  {
-    "link": "https://coolshell.cn/",
-    "description": "陈皓博客"
-  },
-  {
-    "link": "http://paulgraham.com/",
-    "description": "Paul Graham"
-  },
-  {
-    "link": "https://www.joelonsoftware.com/",
-    "description": "joel on software"
-  },
-  {
-    "link": "https://news.ycombinator.com/",
-    "description": "hacker news"
-  },
-  {
-    "link": "https://docs.microsoft.com/en-us/archive/blogs/",
-    "description": "MSDN"
-  },
-  {
-    "link": "https://www.ruanyifeng.com",
-    "description": "阮一峰博客"
-  },
-  {
-    "link": "https://www.kalzumeus.com/\n",
-    "description": "kalzumenu's blog"
-  },
-  {
-    "link": "https://thewebdev.info/",
-    "description": "John Au-Yeung’s blog"
-  },
-  {
-    "link": "https://www.cnblogs.com/vamei/",
-    "description": "vamei’s blog"
-  },
-  {
-    "link": "https://www.mydrivers.com/zhuanti/tianti/gpum/index.html",
-    "description": "显卡性能图"
-  },
-  {
-    "link": "https://next.itellyou.cn/",
-    "description": "操作系统镜像"
-  },
-  {
-    "link": "https://www.itjuzi.com/deathCompan/",
-    "description": "it死亡公司"
-  },
-  {
-    "link": "https://salary.jfstone.cn/",
-    "description": "各省薪资"
+    "title": "历史与现状",
+    "links": [
+      {
+        "link": "https://killedbygoogle.com/",
+        "description": "谷歌公墓"
+      },
+      {
+        "link": "https://www.levels.fyi/",
+        "description": "互联网薪资（国外）"
+      },
+      {
+        "link": "https://salaryfly.com/",
+        "description": "互联网薪资（国内）"
+      },
+      {
+        "link": "https://salary.jfstone.cn/",
+        "description": "各省薪资"
+      },
+      {
+        "link": "https://www.itjuzi.com/deathCompan/",
+        "description": "it死亡公司"
+      }
+    ]
   }
 ]

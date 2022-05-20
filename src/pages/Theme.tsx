@@ -48,7 +48,7 @@ export function ButtonGroupOfMe({links}: AppProps) {
                 links.map(
                     ({link, description}) => {
                         return (
-                            <Button sx={{p: 2, border: '1px solid grey',}} href={link} target="_blank" rel="noreferrer">
+                            <Button sx={{p: 2,m:1, border: '1px solid grey',}} href={link} target="_blank" rel="noreferrer">
                                 {description}
                             </Button>);
                     })

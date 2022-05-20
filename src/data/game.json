@@ -1,106 +1,118 @@
 [
   {
-    "link": "https://nazo.one-story.cn/",
-    "description": "趣味闯关"
+    "title": "怀旧单品",
+    "links": [
+      {
+        "link": "https://chvin.github.io/react-tetris/",
+        "description": "俄罗斯方块"
+      },
+      {
+        "link": "https://battle-city.js.org/",
+        "description": "超级玛丽"
+      },
+      {
+        "link": "https://battle-city.js.org/#/stage/1",
+        "description": "坦克大战"
+      },
+      {
+        "link": "https://cncnet.org/red-alert",
+        "description": "红警行动"
+      },
+      {
+        "link": "https://pvz.heheda.top/",
+        "description": "pvz"
+      }
+    ]
   },
   {
-    "link": "https://yorg.io/",
-    "description": "塔防游戏"
+    "title": "闯关",
+    "links": [
+      {
+        "link": "https://nazo.one-story.cn/",
+        "description": "nazo game"
+      },
+      {
+        "link": "https://p.hancel.org",
+        "description": "摸鱼闯关"
+      },
+      {
+        "link": "https://www.xiiigame.com/example/",
+        "description": "拼字游戏"
+      }
+    ]
   },
   {
-    "link": "https://iogames.space/",
-    "description": "经典游戏"
+    "title": "合集",
+    "links": [
+      {
+        "link": "https://iogames.space/",
+        "description": "经典游戏"
+      },
+      {
+        "link": "https://www.yikm.net/",
+        "description": "小霸王"
+      },
+      {
+        "link": "https://fc.zhouxiaoben.info/",
+        "description": "怀旧NFC"
+      },
+      {
+        "link": "https://1990.games/",
+        "description": "flash游戏"
+      },
+      {
+        "link": "https://flash.zczc.cz/",
+        "description": "flash保存游戏"
+      },
+      {
+        "link": "https://dos.zczc.cz/",
+        "description": "在线DOS"
+      },
+      {
+        "link": "https://nes.heheda.top/",
+        "description": "红白游戏机"
+      }
+    ]
   },
   {
-    "link": "https://www.ctakj.com/games/cat.html",
-    "description": "圈住小猫"
-  },
-  {
-    "link": "https://huazhechen.gitee.io/cuber/",
-    "description": "在线魔方"
-  },
-  {
-    "link": "https://dos.zczc.cz/",
-    "description": "在线DOS"
-  },
-  {
-    "link": "https://p.hancel.org",
-    "description": "摸鱼闯关"
-  },
-  {
-    "link": "https://pinyincaichengyu.com/",
-    "description": "拼音猜成语"
-  },
-  {
-    "link": "https://handle.antfu.me/",
-    "description": "成语猜谜"
-  },
-  {
-    "link": "http://www.chengyuji.cn/fenlei/",
-    "description": "成语大全"
-  },
-  {
-    "link": "https://www.nytimes.com/wordle/",
-    "description": "wordle"
-  },
-  {
-    "link": "https://nazo.one-story.cn/",
-    "description": "nazo game"
-  },
-  {
-    "link": "https://koalastothemax.com/",
-    "description": "细胞分裂（?Base64(图片url)）"
-  },
-  {
-    "link": "https://www.yikm.net/",
-    "description": "小霸王"
-  },
-  {
-    "link": "https://chvin.github.io/react-tetris/",
-    "description": "俄罗斯方块"
-  },
-  {
-    "link": "https://battle-city.js.org/",
-    "description": "超级玛丽"
-  },
-  {
-    "link": "https://battle-city.js.org/#/stage/1",
-    "description": "坦克大战"
-  },
-  {
-    "link": "https://pvz.heheda.top/",
-    "description": "pvz"
-  },
-  {
-    "link": "https://1990.games/",
-    "description": "flash游戏"
-  },
-  {
-    "link": "https://flash.zczc.cz/",
-    "description": "flash保存游戏"
-  },
-  {
-    "link": "https://cncnet.org/red-alert",
-    "description": "红警行动"
-  },
-  {
-    "link": "https://nes.heheda.top/",
-    "description": "红白游戏机"
-  },
-  {
-    "link": "chrome://dino/",
-    "description": "chrome游戏"
-  },
-  {
-    "link": "edge://surf/",
-    "description": "edge游戏"
-  },
-  {
-    "link": "https://www.xiiigame.com/example/",
-    "description": "拼字游戏"
-  },
-  {
-    "link": "https://fc.zhouxiaoben.info/",
-    "description": "怀旧NFC"
+    "title": "其他",
+    "links": [
+      {
+        "link": "https://koalastothemax.com/",
+        "description": "细胞分裂（?Base64(图片url)）"
+      },
+      {
+        "link": "https://pinyincaichengyu.com/",
+        "description": "拼音猜成语"
+      },
+      {
+        "link": "https://handle.antfu.me/",
+        "description": "成语猜谜"
+      },
+      {
+        "link": "https://yorg.io/",
+        "description": "塔防游戏"
+      },
+      {
+        "link": "https://www.ctakj.com/games/cat.html",
+        "description": "圈住小猫"
+      },
+      {
+        "link": "https://huazhechen.gitee.io/cuber/",
+        "description": "在线魔方"
+      },
+      {
+        "link": "https://www.nytimes.com/wordle/",
+        "description": "wordle"
+      },
+      {
+        "link": "chrome://dino/",
+        "description": "chrome游戏"
+      },
+      {
+        "link": "edge://surf/",
+        "description": "edge游戏"
+      }
+    ]
   }
 ]

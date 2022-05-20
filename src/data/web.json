@@ -1,15 +1,7 @@
 [
   {
-    "link": "https://www.w3schools.com/",
-    "description": "w3schools"
-  },
-  {
     "link": "https://validator.w3.org/",
     "description": "html验证"
-  },
-  {
-    "link": "https://developer.mozilla.org/",
-    "description": "MDN"
   },
   {
     "link": "https://nipponcolors.com/",
@@ -50,18 +42,6 @@
   {
     "link": "https://kangax.github.io/compat-table/esnext/",
     "description": "next ES"
-  },
-  {
-    "link": "https://react.docschina.org/",
-    "description": "react文档"
-  },
-  {
-    "link": "https://markdown.com.cn/",
-    "description": "markdown手册"
-  },
-  {
-    "link": "https://mui.com/",
-    "description": "mui"
   },
   {
     "link": "https://www.similarsitesearch.com/",
