@@ -37,55 +37,6 @@
     ]
   },
   {
-    "title": "工具",
-    "links": [
-      {
-        "link": "https://airportal.cn/",
-        "description": "文件传输"
-      },
-      {
-        "link": "https://cv.yi2a.com/",
-        "description": "云剪切板"
-      },
-      {
-        "link": "https://cowtransfer.com/",
-        "description": "奶牛快传"
-      },
-      {
-        "link": "https://iknowwhatyoudownload.com/",
-        "description": "通过ip查找下载过的种子"
-      },
-      {
-        "link": "https://zws.im/",
-        "description": "短网址视觉欺骗"
-      },
-      {
-        "link": "https://www.sina.lt/",
-        "description": "短网址"
-      },
-      {
-        "link": "https://web.woobx.cn/app/short-link",
-        "description": "短链接工具"
-      },
-      {
-        "link": "https://jiemahao.com/",
-        "description": "临时电话号码"
-      },
-      {
-        "link": "https://sourceforge.net/",
-        "description": "SourceForge"
-      },
-      {
-        "link": "https://www.mydrivers.com/zhuanti/tianti/gpum/index.html",
-        "description": "显卡性能图"
-      },
-      {
-        "link": "https://next.itellyou.cn/",
-        "description": "操作系统镜像"
-      }
-    ]
-  },
-  {
     "title": "论坛",
     "links": [
       {
@@ -460,6 +411,23 @@
       {
         "link": "https://magi.com/",
         "description": "magi"
+      }
+    ]
+  },
+  {
+    "title": "其他",
+    "links": [
+      {
+        "link": "https://sourceforge.net/",
+        "description": "SourceForge"
+      },
+      {
+        "link": "https://www.mydrivers.com/zhuanti/tianti/gpum/index.html",
+        "description": "显卡性能图"
+      },
+      {
+        "link": "https://next.itellyou.cn/",
+        "description": "操作系统镜像"
       }
     ]
   }

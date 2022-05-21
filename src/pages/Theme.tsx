@@ -48,7 +48,8 @@ export function ButtonGroupOfMe({links}: AppProps) {
                 links.map(
                     ({link, description}) => {
                         return (
-                            <Button sx={{p: 2,m:1, border: '1px solid grey',}} href={link} target="_blank" rel="noreferrer">
+                            <Button sx={{p: 2,m:1, border: '1px solid grey',textTransform:'none'}}
+                                    href={link} target="_blank" rel="noreferrer">
                                 {description}
                             </Button>);
                     })
@@ -98,12 +99,12 @@ export function TabsOfMe({tabs}: TabsProps) {
     return (
         <TabContext value={value}>
             <Box sx={{borderBottom: 1, borderColor: 'divider'}}>
-                <Tabs onChange={handleChange} centered>
+                <Tabs  onChange={handleChange} centered>
                     {
                         tabs.map(
                             ({title}) => {
                                 return (
-                                    <Tab label={title} value={(index++).toString()}/>);
+                                    <Tab sx={{textTransform:'none'}} label={title} value={(index++).toString()}/>);
                             })
                     }
                 </Tabs>

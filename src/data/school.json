@@ -70,6 +70,10 @@
       {
         "link": "https://zhenti.burningvocabulary.com/",
         "description": "在线英语真题"
+      },
+      {
+        "link": "https://www.languageguide.org/",
+        "description": "各国日常用语"
       }
     ]
   },
@@ -92,14 +96,7 @@
         "link": "https://console.huaweicloud.com/",
         "description": "华为云"
       },
-      {
-        "link": "https://suulnnka.github.io/BullshitGenerator/",
-        "description": "狗屁文章生成器"
-      },
-      {
-        "link": "https://kaseidis.gitee.io/interesting_gadgets/marketing_generator/index.htm",
-        "description": "营销号生成器"
-      },
+
       {
         "link": "https://sojo.im/slscq/",
         "description": "论文生成器"
@@ -133,10 +130,7 @@
   {
     "title": "其他",
     "links": [
-      {
-        "link": "http://www.chengyuji.cn/fenlei/",
-        "description": "成语大全"
-      },
+
       {
         "link": "https://cv.ftqq.com/",
         "description": "冷熊简历"
@@ -177,30 +171,12 @@
         "link": "http://www.luxunmuseum.com.cn/cx/",
         "description": "鲁迅语录"
       },
-      {
-        "link": "https://www.fatsecret.cn/",
-        "description": "食物营养成分"
-      },
-      {
-        "link": "https://www.snapmail.cc/ ",
-        "description": "临时邮箱"
-      },
+
       {
         "link": "https://www.calendarpedia.com/",
         "description": "日历模板"
       },
-      {
-        "link": "https://yayun.la/",
-        "description": "押韵助手"
-      },
-      {
-        "link": "https://www.cnh5.net/",
-        "description": "押韵精灵"
-      },
-      {
-        "link": "https://ai.binwang.me/",
-        "description": "对对子"
-      },
+
       {
         "link": "https://ptable.com/",
         "description": "元素周期表"
@@ -217,10 +193,7 @@
         "link": "https://examcoo.com/",
         "description": "考试库"
       },
-      {
-        "link": "https://zhongkai.github.io/nhr/",
-        "description": "互联网黑话"
-      },
+
       {
         "link": "https://gitmind.cn/",
         "description": "思维导图"

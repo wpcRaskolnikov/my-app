@@ -42,8 +42,172 @@
     ]
   },
   {
+    "title": "字体",
+    "links": [
+      {
+        "link": "https://patorjk.com/software/taag/",
+        "description": "文本转ASCII"
+      },
+      {
+        "link": "https://igfonts.io/",
+        "description": "Instagram字体"
+      },
+      {
+        "link": "https://w2w.okarin.cn/",
+        "description": "花体转换"
+      },
+      {
+        "link": "https://www.calligrapher.ai/",
+        "description": "英文手写体"
+      },
+      {
+        "link": "https://qrascii.deno.dev/",
+        "description": "字符转二维码"
+      },
+      {
+        "link": "https://www.fuhaoku.net/",
+        "description": "符号库"
+      },
+      {
+        "link": "https://emojidaquan.com/ ",
+        "description": "emoji大全"
+      },
+      {
+        "link": "https://home.unicode.org/",
+        "description": "Unicode"
+      },
+      {
+        "link": "https://www.gaitubao.com/yinzhang/",
+        "description": "印章生成"
+      }
+    ]
+  },
+  {
+    "title": "技术",
+    "links": [
+      {
+        "link": "https://www.snapmail.cc/ ",
+        "description": "临时邮箱"
+      },
+      {
+        "link": "https://airportal.cn/",
+        "description": "文件传输"
+      },
+      {
+        "link": "https://cv.yi2a.com/",
+        "description": "云剪切板"
+      },
+      {
+        "link": "https://cowtransfer.com/",
+        "description": "奶牛快传"
+      },
+      {
+        "link": "https://iknowwhatyoudownload.com/",
+        "description": "通过ip查找下载过的种子"
+      },
+      {
+        "link": "https://zws.im/",
+        "description": "短网址视觉欺骗"
+      },
+      {
+        "link": "https://www.sina.lt/",
+        "description": "短网址"
+      },
+      {
+        "link": "https://web.woobx.cn/app/short-link",
+        "description": "短链接工具"
+      },
+      {
+        "link": "https://jiemahao.com/",
+        "description": "临时电话号码"
+      },
+      {
+        "link": "https://toolwa.com/record/",
+        "description": "在线屏幕录制"
+      },
+      {
+        "link": "https://www.visualcapitalist.com/",
+        "description": "数据大全"
+      },
+      {
+        "link": "https://www.cnblogs.com/xuanhao44/",
+        "description": "LaTex"
+      },
+      {
+        "link": "https://versus.com/",
+        "description": "万物皆可对比"
+      },
+      {
+        "link": "https://datamuse.guokr.com/",
+        "description": "果壳数据可视化"
+      },
+      {
+        "link": "https://www.similarsitesearch.com/",
+        "description": "查找同类网站"
+      },
+      {
+        "link": "https://snapdrop.net/",
+        "description": "手机电脑传输文件"
+      },
+      {
+        "link": "https://transferkit.io//",
+        "description": "在线网盘"
+      },
+      {
+        "link": "https://imginn.com/",
+        "description": "Instagram在线"
+      }
+    ]
+  },
+  {
+    "title": "地图",
+    "links": [
+      {
+        "link": "https://pixelmap.amcharts.com/",
+        "description": "地图生成"
+      },
+      {
+        "link": "https://www.ageeye.cn/",
+        "description": "地图大全"
+      },
+      {
+        "link": "https://www.ear0.com/map",
+        "description": "声音地图"
+      },
+      {
+        "link": "https://bus.daibor.com/",
+        "description": "公交线路图"
+      }
+    ]
+  },
+  {
     "title": "其他",
     "links": [
+      {
+        "link": "https://www.templatemaker.nl/zh-cn/",
+        "description": "纸盒制作"
+      },
+      {
+        "link": "https://www.weiboreach.com/",
+        "description": "微博传播分析"
+      },
+      {
+        "link": "https://tool.mingdawoo.com/",
+        "description": "相邻词汇查找"
+      },
+
+      {
+        "link": "https://wantwords.net/",
+        "description": "反向词典"
+      },
+      {
+        "link": "https://rssfeed.today/weibo/",
+        "description": "微博转RSS"
+      },
+      {
+        "link": "https://www.pixelsquid.com/",
+        "description": "人类时钟"
+      },
       {
         "link": "https://233heji.com/",
         "description": "合集网"
@@ -61,128 +225,29 @@
         "description": "成语接龙生成"
       },
       {
-        "link": "https://www.gaitubao.com/yinzhang/",
-        "description": "印章生成"
-      },
-      {
         "link": "https://www.mazegenerator.net/",
         "description": "迷宫生成"
-      },
-      {
-        "link": "https://www.ageeye.cn/",
-        "description": "地图大全"
-      },
-      {
-        "link": "https://www.ear0.com/map",
-        "description": "声音地图"
       },
       {
         "link": "https://www.allhistory.com/",
         "description": "全历史"
       },
       {
-        "link": "https://bus.daibor.com/",
-        "description": "公交线路图"
-      },
-      {
         "link": "https://toonme.com/",
         "description": "卡通化"
-      },
-      {
-        "link": "https://cli.im/",
-        "description": "二维码"
-      },
-      {
-        "link": "https://patorjk.com/software/taag/",
-        "description": "文本转ASCII"
-      },
-      {
-        "link": "https://home.unicode.org/",
-        "description": "Unicode"
-      },
-      {
-        "link": "https://www.cnblogs.com/xuanhao44/",
-        "description": "LaTex"
-      },
-      {
-        "link": "https://imginn.com/",
-        "description": "Instagram在线"
-      },
-      {
-        "link": "https://igfonts.io/",
-        "description": "Instagram字体"
       },
       {
         "link": "https://new-qk.lifves.com/",
         "description": "期刊杂志"
       },
       {
-        "link": "https://pixelmap.amcharts.com/",
-        "description": "地图生成"
-      },
-      {
-        "link": "https://w2w.okarin.cn/",
-        "description": "花体转换"
-      },
-      {
-        "link": "https://transferkit.io//",
-        "description": "在线网盘"
-      },
-      {
         "link": "http://www.hisprice.cn/",
         "description": "历史价格查询"
       },
-      {
-        "link": "https://www.similarsitesearch.com/",
-        "description": "查找同类网站"
-      },
-      {
-        "link": "https://snapdrop.net/",
-        "description": "手机电脑传输文件"
-      },
-      {
-        "link": "https://zh.weatherspark.com/",
-        "description": "全年天气"
-      },
-      {
-        "link": "https://versus.com/",
-        "description": "万物皆可对比"
-      },
-      {
-        "link": "https://datamuse.guokr.com/",
-        "description": "果壳数据可视化"
-      },
-      {
-        "link": "https://www.visualcapitalist.com/",
-        "description": "数据大全"
-      },
-      {
-        "link": "https://www.calligrapher.ai/",
-        "description": "英文手写体"
-      },
-      {
-        "link": "https://www.languageguide.org/",
-        "description": "各国日常用语"
-      },
-      {
-        "link": "https://zh.forvo.com/",
-        "description": "世界语言发音"
-      },
-      {
-        "link": "http://duilian.msra.cn/app/couplet.aspx",
-        "description": "微软ai对联"
-      },
+
       {
         "link": "https://musclewiki.cn/",
         "description": "健身网"
-      },
-      {
-        "link": "https://toolwa.com/record/",
-        "description": "在线屏幕录制"
-      },
-      {
-        "link": "https://qrascii.deno.dev/",
-        "description": "字符转二维码"
       }
     ]
   }

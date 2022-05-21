@@ -40,6 +40,14 @@
     "title": "生活",
     "links": [
       {
+        "link": "https://www.fatsecret.cn/",
+        "description": "食物营养成分"
+      },
+      {
+        "link": "https://zh.weatherspark.com/",
+        "description": "全年天气"
+      },
+      {
         "link": "https://zh.wikihow.com/",
         "description": "wiki生活指南"
       },
@@ -112,8 +120,6 @@
         "link": "https://lovelive.tools/",
         "description": "渣男说话艺术"
       },
-
-
       {
         "link": "http://www.iseecs.com/",
         "description": "明星缩写"
@@ -150,15 +156,51 @@
       {
         "link": "https://www.fyan8.com/",
         "description": "粤语学习"
+      },
+      {
+        "link": "https://zh.forvo.com/",
+        "description": "世界语言发音"
       }
     ]
   },
   {
-    "title": "文化",
+    "title": "AI",
     "links": [
+      {
+        "link": "https://quickdraw.withgoogle.com/",
+        "description": "你画我猜"
+      },
+      {
+        "link": "https://yayun.la/",
+        "description": "押韵助手"
+      },
+      {
+        "link": "https://www.cnh5.net/",
+        "description": "押韵精灵"
+      },
+      {
+        "link": "https://ai.binwang.me/",
+        "description": "对对子"
+      },
       {
         "link": "http://jiuge.thunlp.org/",
         "description": "清华九歌写诗"
+      },
+      {
+        "link": "http://duilian.msra.cn/app/couplet.aspx",
+        "description": "微软ai对联"
+      },
+      {
+        "link": "https://suulnnka.github.io/BullshitGenerator/",
+        "description": "狗屁文章生成器"
+      },
+      {
+        "link": "https://kaseidis.gitee.io/interesting_gadgets/marketing_generator/index.htm",
+        "description": "营销号生成器"
+      },
+      {
+        "link": "https://zhongkai.github.io/nhr/",
+        "description": "互联网黑话"
       },
       {
         "link": "https://cobysy.github.io/shodo/",
@@ -171,40 +213,10 @@
       {
         "link": "https://lmbtfy.cn/",
         "description": "伸手党2"
-      }
-    ]
-  },
-  {
-    "title": "其他",
-    "links": [
-      {
-        "link": "https://www.templatemaker.nl/zh-cn/",
-        "description": "纸盒制作"
       },
       {
-        "link": "https://www.weiboreach.com/",
-        "description": "微博传播分析"
-      },
-      {
-        "link": "https://tool.mingdawoo.com/",
-        "description": "相邻词汇查找"
-      },
-
-      {
-        "link": "https://quickdraw.withgoogle.com/",
-        "description": "你画我猜"
-      },
-      {
-        "link": "https://wantwords.net/",
-        "description": "反向词典"
-      },
-      {
-        "link": "https://rssfeed.today/weibo/",
-        "description": "微博转RSS"
-      },
-      {
-        "link": "https://www.pixelsquid.com/",
-        "description": "人类时钟"
+        "link": "http://www.chengyuji.cn/fenlei/",
+        "description": "成语大全"
       }
     ]
   }

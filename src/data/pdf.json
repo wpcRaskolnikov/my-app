@@ -161,10 +161,11 @@
   },
   {
     "title": "文档转换",
-    "links": [  {
-      "link": "https://www.aconvert.com/",
-      "description": "文档转换"
-    },
+    "links": [
+      {
+        "link": "https://www.aconvert.com/",
+        "description": "文档转换"
+      },
       {
         "link": "https://tableconvert.com/",
         "description": "表格转换器"
@@ -172,7 +173,8 @@
       {
         "link": "https://www.online-convert.com/",
         "description": "文件转换"
-      }]
+      }
+    ]
   },
   {
     "title": "music",
@@ -210,7 +212,6 @@
         "description": "人声背景分离"
       }
     ]
-
   },
   {
     "title": "movie",
@@ -288,6 +289,14 @@
         "description": "电影日历"
       }
     ]
-
+  },
+  {
+    "title": "其他",
+    "links": [
+      {
+        "link": "https://cli.im/",
+        "description": "二维码"
+      }
+    ]
   }
 ]
